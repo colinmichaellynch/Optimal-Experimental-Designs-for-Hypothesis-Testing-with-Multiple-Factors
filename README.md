@@ -3,11 +3,11 @@ How to select factor levels in different types of experiments to maximize power
 
 ## Table of Contents
 
-* Full manuscript describing experiment 
+* [Full manuscript describing experiment](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors/blob/main/Optimal%20Experimental%20Design%20for%20Hypothesis%20Testing%20with%20Multiple%20Factors.docx)
 
-* Data generated from JMP Pro
+* Data generated from JMP Pro ([first order designs](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors/blob/main/PowerSheet2.csv), [second order designs](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors/blob/main/PowerSheet1.csv))
 
-* R script used to analyze data 
+* [R script used to analyze data](https://github.com/colinmichaellynch/Optimal-Experimental-Designs-for-Hypothesis-Testing-with-Multiple-Factors/blob/main/PowerOptimality.R)
 
 ## Background
 
@@ -29,13 +29,13 @@ Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate
 
 * Definitive screening designs will therefore allow researchers to reject the highest number of factors. 
 
-Fig 3
+![](/Images/Rplot.png)
 
 * Central composite designs yield the highest power levels for second order models, even controlling for sample size.
 
 * Power analyses should be done with designs in mind. Sample size, effect size, alpha and beta levels alone do not determine power. 
 
-Fig 1
+![](/Images/powerDesigns.png)
 
 ## Contact Information
 
