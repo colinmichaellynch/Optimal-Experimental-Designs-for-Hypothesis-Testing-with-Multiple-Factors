@@ -1,0 +1,1833 @@
+SampleSizeSetting,Design ,Factor type,Factor number,Coefficient,Coefficient Level,Runs,D Efficiency,G Efficiency,A Efficiency,Power
+Recommended,D Optimal,Continuous,2,beta_0,0,12,46.57,64.77,27.17,0.05
+Recommended,D Optimal,Continuous,2,beta_i,0,12,46.57,64.77,27.17,0.05
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,0,12,46.57,64.77,27.17,0.05
+Recommended,D Optimal,Continuous,2,beta_i^2,0,12,46.57,64.77,27.17,0.05
+Recommended,D Optimal,Continuous,2,beta_0,0.5,12,46.57,64.77,27.17,0.089
+Recommended,D Optimal,Continuous,2,beta_i,0.5,12,46.57,64.77,27.17,0.235
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,0.5,12,46.57,64.77,27.17,0.192
+Recommended,D Optimal,Continuous,2,beta_i^2,0.5,12,46.57,64.77,27.17,0.096
+Recommended,D Optimal,Continuous,2,beta_0,1,12,46.57,64.77,27.17,0.211
+Recommended,D Optimal,Continuous,2,beta_i,1,12,46.57,64.77,27.17,0.685
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,1,12,46.57,64.77,27.17,0.575
+Recommended,D Optimal,Continuous,2,beta_i^2,1,12,46.57,64.77,27.17,0.24
+Recommended,D Optimal,Continuous,2,beta_0,1.5,12,46.57,64.77,27.17,0.405
+Recommended,D Optimal,Continuous,2,beta_i,1.5,12,46.57,64.77,27.17,0.951
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,1.5,12,46.57,64.77,27.17,0.891
+Recommended,D Optimal,Continuous,2,beta_i^2,1.5,12,46.57,64.77,27.17,0.458
+Recommended,D Optimal,Continuous,2,beta_0,2,12,46.57,64.77,27.17,0.625
+Recommended,D Optimal,Continuous,2,beta_i,2,12,46.57,64.77,27.17,0.998
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,2,12,46.57,64.77,27.17,0.988
+Recommended,D Optimal,Continuous,2,beta_i^2,2,12,46.57,64.77,27.17,0.691
+Recommended,D Optimal,Categorical,2,beta_0,0,10,97.98,80,96,0.05
+Recommended,D Optimal,Categorical,2,beta_i,0,10,97.98,80,96,0.05
+Recommended,D Optimal,Categorical,2,beta_i_beta_j,0,10,97.98,80,96,0.05
+Recommended,D Optimal,Categorical,2,beta_i^2,0,10,97.98,80,96,NA
+Recommended,D Optimal,Categorical,2,beta_0,0.5,10,97.98,80,96,0.258
+Recommended,D Optimal,Categorical,2,beta_i,0.5,10,97.98,80,96,0.258
+Recommended,D Optimal,Categorical,2,beta_i_beta_j,0.5,10,97.98,80,96,0.258
+Recommended,D Optimal,Categorical,2,beta_i^2,0.5,10,97.98,80,96,NA
+Recommended,D Optimal,Categorical,2,beta_0,1,10,97.98,80,96,0.734
+Recommended,D Optimal,Categorical,2,beta_i,1,10,97.98,80,96,0.734
+Recommended,D Optimal,Categorical,2,beta_i_beta_j,1,10,97.98,80,96,0.734
+Recommended,D Optimal,Categorical,2,beta_i^2,1,10,97.98,80,96,NA
+Recommended,D Optimal,Categorical,2,beta_0,1.5,10,97.98,80,96,0.834
+Recommended,D Optimal,Categorical,2,beta_i,1.5,10,97.98,80,96,0.834
+Recommended,D Optimal,Categorical,2,beta_i_beta_j,1.5,10,97.98,80,96,0.834
+Recommended,D Optimal,Categorical,2,beta_i^2,1.5,10,97.98,80,96,NA
+Recommended,D Optimal,Categorical,2,beta_0,2,10,97.98,80,96,0.999
+Recommended,D Optimal,Categorical,2,beta_i,2,10,97.98,80,96,0.999
+Recommended,D Optimal,Categorical,2,beta_i_beta_j,2,10,97.98,80,96,0.999
+Recommended,D Optimal,Categorical,2,beta_i^2,2,10,97.98,80,96,NA
+Recommended,D Optimal,Continuous,3,beta_0,0,16,45.86,73.32,26.35,0.05
+Recommended,D Optimal,Continuous,3,beta_i,0,16,45.86,73.32,26.35,0.05
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,0,16,45.86,73.32,26.35,0.05
+Recommended,D Optimal,Continuous,3,beta_i^2,0,16,45.86,73.32,26.35,0.05
+Recommended,D Optimal,Continuous,3,beta_0,0.5,16,45.86,73.32,26.35,0.082
+Recommended,D Optimal,Continuous,3,beta_i,0.5,16,45.86,73.32,26.35,0.295
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,0.5,16,45.86,73.32,26.35,0.259
+Recommended,D Optimal,Continuous,3,beta_i^2,0.5,16,45.86,73.32,26.35,0.111
+Recommended,D Optimal,Continuous,3,beta_0,1,16,45.86,73.32,26.35,0.183
+Recommended,D Optimal,Continuous,3,beta_i,1,16,45.86,73.32,26.35,0.8
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,1,16,45.86,73.32,26.35,0.737
+Recommended,D Optimal,Continuous,3,beta_i^2,1,16,45.86,73.32,26.35,0.298
+Recommended,D Optimal,Continuous,3,beta_0,1.5,16,45.86,73.32,26.35,0.348
+Recommended,D Optimal,Continuous,3,beta_i,1.5,16,45.86,73.32,26.35,0.986
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,1.5,16,45.86,73.32,26.35,0.97
+Recommended,D Optimal,Continuous,3,beta_i^2,1.5,16,45.86,73.32,26.35,0.568
+Recommended,D Optimal,Continuous,3,beta_0,2,16,45.86,73.32,26.35,0.547
+Recommended,D Optimal,Continuous,3,beta_i,2,16,45.86,73.32,26.35,1
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,2,16,45.86,73.32,26.35,0.999
+Recommended,D Optimal,Continuous,3,beta_i^2,2,16,45.86,73.32,26.35,0.805
+Recommended,D Optimal,Categorical,3,beta_0,0,13,95.7,65.81,"91,12",0.05
+Recommended,D Optimal,Categorical,3,beta_i,0,13,95.7,65.81,"91,13",0.05
+Recommended,D Optimal,Categorical,3,beta_i_beta_j,0,13,95.7,65.81,"91,14",0.05
+Recommended,D Optimal,Categorical,3,beta_i^2,0,13,95.7,65.81,"91,15",NA
+Recommended,D Optimal,Categorical,3,beta_0,0.5,13,95.7,65.81,"91,16",0.304
+Recommended,D Optimal,Categorical,3,beta_i,0.5,13,95.7,65.81,"91,17",0.304
+Recommended,D Optimal,Categorical,3,beta_i_beta_j,0.5,13,95.7,65.81,"91,18",0.304
+Recommended,D Optimal,Categorical,3,beta_i^2,0.5,13,95.7,65.81,"91,19",NA
+Recommended,D Optimal,Categorical,3,beta_0,1,13,95.7,65.81,"91,20",0.813
+Recommended,D Optimal,Categorical,3,beta_i,1,13,95.7,65.81,"91,21",0.813
+Recommended,D Optimal,Categorical,3,beta_i_beta_j,1,13,95.7,65.81,"91,22",0.813
+Recommended,D Optimal,Categorical,3,beta_i^2,1,13,95.7,65.81,"91,23",NA
+Recommended,D Optimal,Categorical,3,beta_0,1.5,13,95.7,65.81,"91,24",0.988
+Recommended,D Optimal,Categorical,3,beta_i,1.5,13,95.7,65.81,"91,25",0.988
+Recommended,D Optimal,Categorical,3,beta_i_beta_j,1.5,13,95.7,65.81,"91,26",0.988
+Recommended,D Optimal,Categorical,3,beta_i^2,1.5,13,95.7,65.81,"91,27",NA
+Recommended,D Optimal,Categorical,3,beta_0,2,13,95.7,65.81,"91,28",0.999
+Recommended,D Optimal,Categorical,3,beta_i,2,13,95.7,65.81,"91,29",0.999
+Recommended,D Optimal,Categorical,3,beta_i_beta_j,2,13,95.7,65.81,"91,30",0.999
+Recommended,D Optimal,Categorical,3,beta_i^2,2,13,95.7,65.81,"91,31",NA
+Recommended,D Optimal,Continuous,4,beta_0,0,21,46.83,68.22,24.66,0.05
+Recommended,D Optimal,Continuous,4,beta_i,0,21,46.83,68.22,24.66,0.05
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,0,21,46.83,68.22,24.66,0.05
+Recommended,D Optimal,Continuous,4,beta_i^2,0,21,46.83,68.22,24.66,0.05
+Recommended,D Optimal,Continuous,4,beta_0,0.5,21,46.83,68.22,24.66,0.077
+Recommended,D Optimal,Continuous,4,beta_i,0.5,21,46.83,68.22,24.66,0.38
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,0.5,21,46.83,68.22,24.66,0.324
+Recommended,D Optimal,Continuous,4,beta_i^2,0.5,21,46.83,68.22,24.66,0.113
+Recommended,D Optimal,Continuous,4,beta_0,1,21,46.83,68.22,24.66,0.16
+Recommended,D Optimal,Continuous,4,beta_i,1,21,46.83,68.22,24.66,0.9
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,1,21,46.83,68.22,24.66,0.842
+Recommended,D Optimal,Continuous,4,beta_i^2,1,21,46.83,68.22,24.66,0.305
+Recommended,D Optimal,Continuous,4,beta_0,1.5,21,46.83,68.22,24.66,0.299
+Recommended,D Optimal,Continuous,4,beta_i,1.5,21,46.83,68.22,24.66,0.998
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,1.5,21,46.83,68.22,24.66,0.992
+Recommended,D Optimal,Continuous,4,beta_i^2,1.5,21,46.83,68.22,24.66,0.579
+Recommended,D Optimal,Continuous,4,beta_0,2,21,46.83,68.22,24.66,0.476
+Recommended,D Optimal,Continuous,4,beta_i,2,21,46.83,68.22,24.66,1
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,2,21,46.83,68.22,24.66,1
+Recommended,D Optimal,Continuous,4,beta_i^2,2,21,46.83,68.22,24.66,0.815
+Recommended,D Optimal,Categorical,4,beta_0,0,17,98.7,94.43,97.73,0.05
+Recommended,D Optimal,Categorical,4,beta_i,0,17,98.7,94.43,97.73,0.05
+Recommended,D Optimal,Categorical,4,beta_i_beta_j,0,17,98.7,94.43,97.73,0.05
+Recommended,D Optimal,Categorical,4,beta_i^2,0,17,98.7,94.43,97.73,NA
+Recommended,D Optimal,Categorical,4,beta_0,0.5,17,98.7,94.43,97.73,0.403
+Recommended,D Optimal,Categorical,4,beta_i,0.5,17,98.7,94.43,97.73,0.403
+Recommended,D Optimal,Categorical,4,beta_i_beta_j,0.5,17,98.7,94.43,97.73,0.403
+Recommended,D Optimal,Categorical,4,beta_i^2,0.5,17,98.7,94.43,97.73,NA
+Recommended,D Optimal,Categorical,4,beta_0,1,17,98.7,94.43,97.73,0.921
+Recommended,D Optimal,Categorical,4,beta_i,1,17,98.7,94.43,97.73,0.921
+Recommended,D Optimal,Categorical,4,beta_i_beta_j,1,17,98.7,94.43,97.73,0.921
+Recommended,D Optimal,Categorical,4,beta_i^2,1,17,98.7,94.43,97.73,NA
+Recommended,D Optimal,Categorical,4,beta_0,1.5,17,98.7,94.43,97.73,0.999
+Recommended,D Optimal,Categorical,4,beta_i,1.5,17,98.7,94.43,97.73,0.999
+Recommended,D Optimal,Categorical,4,beta_i_beta_j,1.5,17,98.7,94.43,97.73,0.999
+Recommended,D Optimal,Categorical,4,beta_i^2,1.5,17,98.7,94.43,97.73,NA
+Recommended,D Optimal,Categorical,4,beta_0,2,17,98.7,94.43,97.73,1
+Recommended,D Optimal,Categorical,4,beta_i,2,17,98.7,94.43,97.73,1
+Recommended,D Optimal,Categorical,4,beta_i_beta_j,2,17,98.7,94.43,97.73,1
+Recommended,D Optimal,Categorical,4,beta_i^2,2,17,98.7,94.43,97.73,NA
+Recommended,D Optimal,Continuous,5,beta_0,0,27,48.35,64.61,23.49,0.05
+Recommended,D Optimal,Continuous,5,beta_i,0,27,48.35,64.61,23.49,0.05
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,0,27,48.35,64.61,23.49,0.05
+Recommended,D Optimal,Continuous,5,beta_i^2,0,27,48.35,64.61,23.49,0.05
+Recommended,D Optimal,Continuous,5,beta_0,0.5,27,48.35,64.61,23.49,0.075
+Recommended,D Optimal,Continuous,5,beta_i,0.5,27,48.35,64.61,23.49,0.459
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,0.5,27,48.35,64.61,23.49,0.432
+Recommended,D Optimal,Continuous,5,beta_i^2,0.5,27,48.35,64.61,23.49,0.128
+Recommended,D Optimal,Continuous,5,beta_0,1,27,48.35,64.61,23.49,0.151
+Recommended,D Optimal,Continuous,5,beta_i,1,27,48.35,64.61,23.49,0.954
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,1,27,48.35,64.61,23.49,0.94
+Recommended,D Optimal,Continuous,5,beta_i^2,1,27,48.35,64.61,23.49,0.362
+Recommended,D Optimal,Continuous,5,beta_0,1.5,27,48.35,64.61,23.49,0.28
+Recommended,D Optimal,Continuous,5,beta_i,1.5,27,48.35,64.61,23.49,1
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,1.5,27,48.35,64.61,23.49,0.999
+Recommended,D Optimal,Continuous,5,beta_i^2,1.5,27,48.35,64.61,23.49,0.667
+Recommended,D Optimal,Continuous,5,beta_0,2,27,48.35,64.61,23.49,0.447
+Recommended,D Optimal,Continuous,5,beta_i,2,27,48.35,64.61,23.49,1
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,2,27,48.35,64.61,23.49,1
+Recommended,D Optimal,Continuous,5,beta_i^2,2,27,48.35,64.61,23.49,0.886
+Recommended,D Optimal,Categorical,5,beta_0,0,22,94.31,72.72,89.51,0.05
+Recommended,D Optimal,Categorical,5,beta_i,0,22,94.31,72.72,89.51,0.05
+Recommended,D Optimal,Categorical,5,beta_i_beta_j,0,22,94.31,72.72,89.51,0.05
+Recommended,D Optimal,Categorical,5,beta_i^2,0,22,94.31,72.72,89.51,NA
+Recommended,D Optimal,Categorical,5,beta_0,0.5,22,94.31,72.72,89.51,0.462
+Recommended,D Optimal,Categorical,5,beta_i,0.5,22,94.31,72.72,89.51,0.462
+Recommended,D Optimal,Categorical,5,beta_i_beta_j,0.5,22,94.31,72.72,89.51,0.462
+Recommended,D Optimal,Categorical,5,beta_i^2,0.5,22,94.31,72.72,89.51,NA
+Recommended,D Optimal,Categorical,5,beta_0,1,22,94.31,72.72,89.51,0.956
+Recommended,D Optimal,Categorical,5,beta_i,1,22,94.31,72.72,89.51,0.956
+Recommended,D Optimal,Categorical,5,beta_i_beta_j,1,22,94.31,72.72,89.51,0.956
+Recommended,D Optimal,Categorical,5,beta_i^2,1,22,94.31,72.72,89.51,NA
+Recommended,D Optimal,Categorical,5,beta_0,1.5,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i,1.5,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i_beta_j,1.5,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i^2,1.5,22,94.31,72.72,89.51,NA
+Recommended,D Optimal,Categorical,5,beta_0,2,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i,2,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i_beta_j,2,22,94.31,72.72,89.51,1
+Recommended,D Optimal,Categorical,5,beta_i^2,2,22,94.31,72.72,89.51,NA
+Recommended,I Optimal,Continuous,2,beta_0,0,12,40.82,63.15,32.43,0.05
+Recommended,I Optimal,Continuous,2,beta_i,0,12,40.82,63.15,32.43,0.05
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,0,12,40.82,63.15,32.43,0.05
+Recommended,I Optimal,Continuous,2,beta_i^2,0,12,40.82,63.15,32.43,0.05
+Recommended,I Optimal,Continuous,2,beta_0,0.5,12,40.82,63.15,32.43,0.153
+Recommended,I Optimal,Continuous,2,beta_i,0.5,12,40.82,63.15,32.43,0.179
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,0.5,12,40.82,63.15,32.43,0.136
+Recommended,I Optimal,Continuous,2,beta_i^2,0.5,12,40.82,63.15,32.43,0.107
+Recommended,I Optimal,Continuous,2,beta_0,1,12,40.82,63.15,32.43,0.453
+Recommended,I Optimal,Continuous,2,beta_i,1,12,40.82,63.15,32.43,0.537
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,1,12,40.82,63.15,32.43,0.391
+Recommended,I Optimal,Continuous,2,beta_i^2,1,12,40.82,63.15,32.43,0.281
+Recommended,I Optimal,Continuous,2,beta_0,1.5,12,40.82,63.15,32.43,0.781
+Recommended,I Optimal,Continuous,2,beta_i,1.5,12,40.82,63.15,32.43,0.862
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,1.5,12,40.82,63.15,32.43,0.707
+Recommended,I Optimal,Continuous,2,beta_i^2,1.5,12,40.82,63.15,32.43,0.537
+Recommended,I Optimal,Continuous,2,beta_0,2,12,40.82,63.15,32.43,0.951
+Recommended,I Optimal,Continuous,2,beta_i,2,12,40.82,63.15,32.43,0.981
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,2,12,40.82,63.15,32.43,0.776
+Recommended,I Optimal,Continuous,2,beta_i^2,2,12,40.82,63.15,32.43,0.912
+Recommended,I Optimal,Categorical,2,beta_0,0,10,97.97,80,96,0.05
+Recommended,I Optimal,Categorical,2,beta_i,0,10,97.97,80,96,0.05
+Recommended,I Optimal,Categorical,2,beta_i_beta_j,0,10,97.97,80,96,0.05
+Recommended,I Optimal,Categorical,2,beta_i^2,0,10,97.97,80,96,NA
+Recommended,I Optimal,Categorical,2,beta_0,0.5,10,97.97,80,96,0.258
+Recommended,I Optimal,Categorical,2,beta_i,0.5,10,97.97,80,96,0.258
+Recommended,I Optimal,Categorical,2,beta_i_beta_j,0.5,10,97.97,80,96,0.258
+Recommended,I Optimal,Categorical,2,beta_i^2,0.5,10,97.97,80,96,NA
+Recommended,I Optimal,Categorical,2,beta_0,1,10,97.97,80,96,0.734
+Recommended,I Optimal,Categorical,2,beta_i,1,10,97.97,80,96,0.734
+Recommended,I Optimal,Categorical,2,beta_i_beta_j,1,10,97.97,80,96,0.734
+Recommended,I Optimal,Categorical,2,beta_i^2,1,10,97.97,80,96,NA
+Recommended,I Optimal,Categorical,2,beta_0,1.5,10,97.97,80,96,0.969
+Recommended,I Optimal,Categorical,2,beta_i,1.5,10,97.97,80,96,0.969
+Recommended,I Optimal,Categorical,2,beta_i_beta_j,1.5,10,97.97,80,96,0.969
+Recommended,I Optimal,Categorical,2,beta_i^2,1.5,10,97.97,80,96,NA
+Recommended,I Optimal,Categorical,2,beta_0,2,10,97.97,80,96,0.999
+Recommended,I Optimal,Categorical,2,beta_i,2,10,97.97,80,96,0.999
+Recommended,I Optimal,Categorical,2,beta_i_beta_j,2,10,97.97,80,96,0.999
+Recommended,I Optimal,Categorical,2,beta_i^2,2,10,97.97,80,96,NA
+Recommended,I Optimal,Continuous,3,beta_0,0,16,42.99,78.54,30.68,0.05
+Recommended,I Optimal,Continuous,3,beta_i,0,16,42.99,78.54,30.68,0.05
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,0,16,42.99,78.54,30.68,0.05
+Recommended,I Optimal,Continuous,3,beta_i^2,0,16,42.99,78.54,30.68,0.05
+Recommended,I Optimal,Continuous,3,beta_0,0.5,16,42.99,78.54,30.68,0.146
+Recommended,I Optimal,Continuous,3,beta_i,0.5,16,42.99,78.54,30.68,0.267
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,0.5,16,42.99,78.54,30.68,0.223
+Recommended,I Optimal,Continuous,3,beta_i^2,0.5,16,42.99,78.54,30.68,0.106
+Recommended,I Optimal,Continuous,3,beta_0,1,16,42.99,78.54,30.68,0.427
+Recommended,I Optimal,Continuous,3,beta_i,1,16,42.99,78.54,30.68,0.75
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,1,16,42.99,78.54,30.68,0.657
+Recommended,I Optimal,Continuous,3,beta_i^2,1,16,42.99,78.54,30.68,0.278
+Recommended,I Optimal,Continuous,3,beta_0,1.5,16,42.99,78.54,30.68,0.752
+Recommended,I Optimal,Continuous,3,beta_i,1.5,16,42.99,78.54,30.68,0.974
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,1.5,16,42.99,78.54,30.68,0.939
+Recommended,I Optimal,Continuous,3,beta_i^2,1.5,16,42.99,78.54,30.68,0.533
+Recommended,I Optimal,Continuous,3,beta_0,2,16,42.99,78.54,30.68,0.937
+Recommended,I Optimal,Continuous,3,beta_i,2,16,42.99,78.54,30.68,0.999
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,2,16,42.99,78.54,30.68,0.996
+Recommended,I Optimal,Continuous,3,beta_i^2,2,16,42.99,78.54,30.68,0.772
+Recommended,I Optimal,Categorical,3,beta_0,0,13,95.7,65.81,91.12,0.05
+Recommended,I Optimal,Categorical,3,beta_i,0,13,95.7,65.81,91.12,0.05
+Recommended,I Optimal,Categorical,3,beta_i_beta_j,0,13,95.7,65.81,91.12,0.05
+Recommended,I Optimal,Categorical,3,beta_i^2,0,13,95.7,65.81,91.12,NA
+Recommended,I Optimal,Categorical,3,beta_0,0.5,13,95.7,65.81,91.12,0.304
+Recommended,I Optimal,Categorical,3,beta_i,0.5,13,95.7,65.81,91.12,0.304
+Recommended,I Optimal,Categorical,3,beta_i_beta_j,0.5,13,95.7,65.81,91.12,0.304
+Recommended,I Optimal,Categorical,3,beta_i^2,0.5,13,95.7,65.81,91.12,NA
+Recommended,I Optimal,Categorical,3,beta_0,1,13,95.7,65.81,91.12,0.813
+Recommended,I Optimal,Categorical,3,beta_i,1,13,95.7,65.81,91.12,0.813
+Recommended,I Optimal,Categorical,3,beta_i_beta_j,1,13,95.7,65.81,91.12,0.813
+Recommended,I Optimal,Categorical,3,beta_i^2,1,13,95.7,65.81,91.12,NA
+Recommended,I Optimal,Categorical,3,beta_0,1.5,13,95.7,65.81,91.12,0.988
+Recommended,I Optimal,Categorical,3,beta_i,1.5,13,95.7,65.81,91.12,0.988
+Recommended,I Optimal,Categorical,3,beta_i_beta_j,1.5,13,95.7,65.81,91.12,0.988
+Recommended,I Optimal,Categorical,3,beta_i^2,1.5,13,95.7,65.81,91.12,NA
+Recommended,I Optimal,Categorical,3,beta_0,2,13,95.7,65.81,91.12,1
+Recommended,I Optimal,Categorical,3,beta_i,2,13,95.7,65.81,91.12,1
+Recommended,I Optimal,Categorical,3,beta_i_beta_j,2,13,95.7,65.81,91.12,1
+Recommended,I Optimal,Categorical,3,beta_i^2,2,13,95.7,65.81,91.12,NA
+Recommended,I Optimal,Continuous,4,beta_0,0,21,41.04,56.61,29.41,0.05
+Recommended,I Optimal,Continuous,4,beta_i,0,21,41.04,56.61,29.41,0.05
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,0,21,41.04,56.61,29.41,0.05
+Recommended,I Optimal,Continuous,4,beta_i^2,0,21,41.04,56.61,29.41,0.05
+Recommended,I Optimal,Continuous,4,beta_0,0.5,21,41.04,56.61,29.41,0.143
+Recommended,I Optimal,Continuous,4,beta_i,0.5,21,41.04,56.61,29.41,0.336
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,0.5,21,41.04,56.61,29.41,0.285
+Recommended,I Optimal,Continuous,4,beta_i^2,0.5,21,41.04,56.61,29.41,0.114
+Recommended,I Optimal,Continuous,4,beta_0,1,21,41.04,56.61,29.41,0.418
+Recommended,I Optimal,Continuous,4,beta_i,1,21,41.04,56.61,29.41,0.857
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,1,21,41.04,56.61,29.41,0.783
+Recommended,I Optimal,Continuous,4,beta_i^2,1,21,41.04,56.61,29.41,0.31
+Recommended,I Optimal,Continuous,4,beta_0,1.5,21,41.04,56.61,29.41,0.741
+Recommended,I Optimal,Continuous,4,beta_i,1.5,21,41.04,56.61,29.41,0.994
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,1.5,21,41.04,56.61,29.41,0.982
+Recommended,I Optimal,Continuous,4,beta_i^2,1.5,21,41.04,56.61,29.41,0.578
+Recommended,I Optimal,Continuous,4,beta_0,2,21,41.04,56.61,29.41,0.931
+Recommended,I Optimal,Continuous,4,beta_i,2,21,41.04,56.61,29.41,1
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,2,21,41.04,56.61,29.41,1
+Recommended,I Optimal,Continuous,4,beta_i^2,2,21,41.04,56.61,29.41,0.823
+Recommended,I Optimal,Categorical,4,beta_0,0,17,98.7,94.43,97.73,0.05
+Recommended,I Optimal,Categorical,4,beta_i,0,17,98.7,94.43,97.73,0.05
+Recommended,I Optimal,Categorical,4,beta_i_beta_j,0,17,98.7,94.43,97.73,0.05
+Recommended,I Optimal,Categorical,4,beta_i^2,0,17,98.7,94.43,97.73,NA
+Recommended,I Optimal,Categorical,4,beta_0,0.5,17,98.7,94.43,97.73,0.403
+Recommended,I Optimal,Categorical,4,beta_i,0.5,17,98.7,94.43,97.73,0.403
+Recommended,I Optimal,Categorical,4,beta_i_beta_j,0.5,17,98.7,94.43,97.73,0.403
+Recommended,I Optimal,Categorical,4,beta_i^2,0.5,17,98.7,94.43,97.73,NA
+Recommended,I Optimal,Categorical,4,beta_0,1,17,98.7,94.43,97.73,0.921
+Recommended,I Optimal,Categorical,4,beta_i,1,17,98.7,94.43,97.73,0.921
+Recommended,I Optimal,Categorical,4,beta_i_beta_j,1,17,98.7,94.43,97.73,0.921
+Recommended,I Optimal,Categorical,4,beta_i^2,1,17,98.7,94.43,97.73,NA
+Recommended,I Optimal,Categorical,4,beta_0,1.5,17,98.7,94.43,97.73,0.999
+Recommended,I Optimal,Categorical,4,beta_i,1.5,17,98.7,94.43,97.73,0.999
+Recommended,I Optimal,Categorical,4,beta_i_beta_j,1.5,17,98.7,94.43,97.73,0.999
+Recommended,I Optimal,Categorical,4,beta_i^2,1.5,17,98.7,94.43,97.73,NA
+Recommended,I Optimal,Categorical,4,beta_0,2,17,98.7,94.43,97.73,1
+Recommended,I Optimal,Categorical,4,beta_i,2,17,98.7,94.43,97.73,1
+Recommended,I Optimal,Categorical,4,beta_i_beta_j,2,17,98.7,94.43,97.73,1
+Recommended,I Optimal,Categorical,4,beta_i^2,2,17,98.7,94.43,97.73,NA
+Recommended,I Optimal,Continuous,5,beta_0,0,27,44.3,49.37,28.72,0.05
+Recommended,I Optimal,Continuous,5,beta_i,0,27,44.3,49.37,28.72,0.05
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,0,27,44.3,49.37,28.72,0.05
+Recommended,I Optimal,Continuous,5,beta_i^2,0,27,44.3,49.37,28.72,0.05
+Recommended,I Optimal,Continuous,5,beta_0,0.5,27,44.3,49.37,28.72,0.151
+Recommended,I Optimal,Continuous,5,beta_i,0.5,27,44.3,49.37,28.72,0.428
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,0.5,27,44.3,49.37,28.72,0.36
+Recommended,I Optimal,Continuous,5,beta_i^2,0.5,27,44.3,49.37,28.72,0.121
+Recommended,I Optimal,Continuous,5,beta_0,1,27,44.3,49.37,28.72,0.445
+Recommended,I Optimal,Continuous,5,beta_i,1,27,44.3,49.37,28.72,0.938
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,1,27,44.3,49.37,28.72,0.883
+Recommended,I Optimal,Continuous,5,beta_i^2,1,27,44.3,49.37,28.72,0.338
+Recommended,I Optimal,Continuous,5,beta_0,1.5,27,44.3,49.37,28.72,0.773
+Recommended,I Optimal,Continuous,5,beta_i,1.5,27,44.3,49.37,28.72,0.999
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,1.5,27,44.3,49.37,28.72,0.997
+Recommended,I Optimal,Continuous,5,beta_i^2,1.5,27,44.3,49.37,28.72,0.631
+Recommended,I Optimal,Continuous,5,beta_0,2,27,44.3,49.37,28.72,0.947
+Recommended,I Optimal,Continuous,5,beta_i,2,27,44.3,49.37,28.72,1
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,2,27,44.3,49.37,28.72,1
+Recommended,I Optimal,Continuous,5,beta_i^2,2,27,44.3,49.37,28.72,0.859
+Recommended,I Optimal,Categorical,5,beta_0,0,22,94.31,72.72,89.51,0.05
+Recommended,I Optimal,Categorical,5,beta_i,0,22,94.31,72.72,89.51,0.05
+Recommended,I Optimal,Categorical,5,beta_i_beta_j,0,22,94.31,72.72,89.51,0.05
+Recommended,I Optimal,Categorical,5,beta_i^2,0,22,94.31,72.72,89.51,NA
+Recommended,I Optimal,Categorical,5,beta_0,0.5,22,94.31,72.72,89.51,0.462
+Recommended,I Optimal,Categorical,5,beta_i,0.5,22,94.31,72.72,89.51,0.462
+Recommended,I Optimal,Categorical,5,beta_i_beta_j,0.5,22,94.31,72.72,89.51,0.462
+Recommended,I Optimal,Categorical,5,beta_i^2,0.5,22,94.31,72.72,89.51,NA
+Recommended,I Optimal,Categorical,5,beta_0,1,22,94.31,72.72,89.51,0.956
+Recommended,I Optimal,Categorical,5,beta_i,1,22,94.31,72.72,89.51,0.956
+Recommended,I Optimal,Categorical,5,beta_i_beta_j,1,22,94.31,72.72,89.51,0.956
+Recommended,I Optimal,Categorical,5,beta_i^2,1,22,94.31,72.72,89.51,NA
+Recommended,I Optimal,Categorical,5,beta_0,1.5,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i,1.5,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i_beta_j,1.5,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i^2,1.5,22,94.31,72.72,89.51,NA
+Recommended,I Optimal,Categorical,5,beta_0,2,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i,2,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i_beta_j,2,22,94.31,72.72,89.51,1
+Recommended,I Optimal,Categorical,5,beta_i^2,2,22,94.31,72.72,89.51,NA
+Recommended,A Optimal,Continuous,2,beta_0,0,12,42.06,62.51,32.75,0.05
+Recommended,A Optimal,Continuous,2,beta_i,0,12,42.06,62.51,32.75,0.05
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,0,12,42.06,62.51,32.75,0.05
+Recommended,A Optimal,Continuous,2,beta_i^2,0,12,42.06,62.51,32.75,0.05
+Recommended,A Optimal,Continuous,2,beta_0,0.5,12,42.06,62.51,32.75,0.134
+Recommended,A Optimal,Continuous,2,beta_i,0.5,12,42.06,62.51,32.75,0.179
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,0.5,12,42.06,62.51,32.75,0.136
+Recommended,A Optimal,Continuous,2,beta_i^2,0.5,12,42.06,62.51,32.75,0.111
+Recommended,A Optimal,Continuous,2,beta_0,1,12,42.06,62.51,32.75,0.383
+Recommended,A Optimal,Continuous,2,beta_i,1,12,42.06,62.51,32.75,0.537
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,1,12,42.06,62.51,32.75,0.391
+Recommended,A Optimal,Continuous,2,beta_i^2,1,12,42.06,62.51,32.75,0.296
+Recommended,A Optimal,Continuous,2,beta_0,1.5,12,42.06,62.51,32.75,0.696
+Recommended,A Optimal,Continuous,2,beta_i,1.5,12,42.06,62.51,32.75,0.862
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,1.5,12,42.06,62.51,32.75,0.708
+Recommended,A Optimal,Continuous,2,beta_i^2,1.5,12,42.06,62.51,32.75,0.567
+Recommended,A Optimal,Continuous,2,beta_0,2,12,42.06,62.51,32.75,0.905
+Recommended,A Optimal,Continuous,2,beta_i,2,12,42.06,62.51,32.75,0.981
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,2,12,42.06,62.51,32.75,0.805
+Recommended,A Optimal,Continuous,2,beta_i^2,2,12,42.06,62.51,32.75,0.912
+Recommended,A Optimal,Categorical,2,beta_0,0,10,97.98,80,96,0.05
+Recommended,A Optimal,Categorical,2,beta_i,0,10,97.98,80,96,0.05
+Recommended,A Optimal,Categorical,2,beta_i_beta_j,0,10,97.98,80,96,0.05
+Recommended,A Optimal,Categorical,2,beta_i^2,0,10,97.98,80,96,NA
+Recommended,A Optimal,Categorical,2,beta_0,0.5,10,97.98,80,96,0.258
+Recommended,A Optimal,Categorical,2,beta_i,0.5,10,97.98,80,96,0.258
+Recommended,A Optimal,Categorical,2,beta_i_beta_j,0.5,10,97.98,80,96,0.258
+Recommended,A Optimal,Categorical,2,beta_i^2,0.5,10,97.98,80,96,NA
+Recommended,A Optimal,Categorical,2,beta_0,1,10,97.98,80,96,0.734
+Recommended,A Optimal,Categorical,2,beta_i,1,10,97.98,80,96,0.734
+Recommended,A Optimal,Categorical,2,beta_i_beta_j,1,10,97.98,80,96,0.734
+Recommended,A Optimal,Categorical,2,beta_i^2,1,10,97.98,80,96,NA
+Recommended,A Optimal,Categorical,2,beta_0,1.5,10,97.98,80,96,0.969
+Recommended,A Optimal,Categorical,2,beta_i,1.5,10,97.98,80,96,0.969
+Recommended,A Optimal,Categorical,2,beta_i_beta_j,1.5,10,97.98,80,96,0.969
+Recommended,A Optimal,Categorical,2,beta_i^2,1.5,10,97.98,80,96,NA
+Recommended,A Optimal,Categorical,2,beta_0,2,10,97.98,80,96,0.999
+Recommended,A Optimal,Categorical,2,beta_i,2,10,97.98,80,96,0.999
+Recommended,A Optimal,Categorical,2,beta_i_beta_j,2,10,97.98,80,96,0.999
+Recommended,A Optimal,Categorical,2,beta_i^2,2,10,97.98,80,96,NA
+Recommended,A Optimal,Continuous,3,beta_0,0,16,44.51,79.36,31.64,0.05
+Recommended,A Optimal,Continuous,3,beta_i,0,16,44.51,79.36,31.64,0.05
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,0,16,44.51,79.36,31.64,0.05
+Recommended,A Optimal,Continuous,3,beta_i^2,0,16,44.51,79.36,31.64,0.05
+Recommended,A Optimal,Continuous,3,beta_0,0.5,16,44.51,79.36,31.64,0.115
+Recommended,A Optimal,Continuous,3,beta_i,0.5,16,44.51,79.36,31.64,0.281
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,0.5,16,44.51,79.36,31.64,0.223
+Recommended,A Optimal,Continuous,3,beta_i^2,0.5,16,44.51,79.36,31.64,0.115
+Recommended,A Optimal,Continuous,3,beta_0,1,16,44.51,79.36,31.64,0.313
+Recommended,A Optimal,Continuous,3,beta_i,1,16,44.51,79.36,31.64,0.776
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,1,16,44.51,79.36,31.64,0.657
+Recommended,A Optimal,Continuous,3,beta_i^2,1,16,44.51,79.36,31.64,0.313
+Recommended,A Optimal,Continuous,3,beta_0,1.5,16,44.51,79.36,31.64,0.592
+Recommended,A Optimal,Continuous,3,beta_i,1.5,16,44.51,79.36,31.64,0.981
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,1.5,16,44.51,79.36,31.64,0.939
+Recommended,A Optimal,Continuous,3,beta_i^2,1.5,16,44.51,79.36,31.64,0.592
+Recommended,A Optimal,Continuous,3,beta_0,2,16,44.51,79.36,31.64,0.827
+Recommended,A Optimal,Continuous,3,beta_i,2,16,44.51,79.36,31.64,0.75
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,2,16,44.51,79.36,31.64,0.996
+Recommended,A Optimal,Continuous,3,beta_i^2,2,16,44.51,79.36,31.64,0.827
+Recommended,A Optimal,Categorical,3,beta_0,0,13,95.7,65.81,91.12,0.05
+Recommended,A Optimal,Categorical,3,beta_i,0,13,95.7,65.81,91.12,0.05
+Recommended,A Optimal,Categorical,3,beta_i_beta_j,0,13,95.7,65.81,91.12,0.05
+Recommended,A Optimal,Categorical,3,beta_i^2,0,13,95.7,65.81,91.12,NA
+Recommended,A Optimal,Categorical,3,beta_0,0.5,13,95.7,65.81,91.12,0.304
+Recommended,A Optimal,Categorical,3,beta_i,0.5,13,95.7,65.81,91.12,0.304
+Recommended,A Optimal,Categorical,3,beta_i_beta_j,0.5,13,95.7,65.81,91.12,0.304
+Recommended,A Optimal,Categorical,3,beta_i^2,0.5,13,95.7,65.81,91.12,NA
+Recommended,A Optimal,Categorical,3,beta_0,1,13,95.7,65.81,91.12,0.813
+Recommended,A Optimal,Categorical,3,beta_i,1,13,95.7,65.81,91.12,0.813
+Recommended,A Optimal,Categorical,3,beta_i_beta_j,1,13,95.7,65.81,91.12,0.813
+Recommended,A Optimal,Categorical,3,beta_i^2,1,13,95.7,65.81,91.12,NA
+Recommended,A Optimal,Categorical,3,beta_0,1.5,13,95.7,65.81,91.12,0.988
+Recommended,A Optimal,Categorical,3,beta_i,1.5,13,95.7,65.81,91.12,0.988
+Recommended,A Optimal,Categorical,3,beta_i_beta_j,1.5,13,95.7,65.81,91.12,0.988
+Recommended,A Optimal,Categorical,3,beta_i^2,1.5,13,95.7,65.81,91.12,NA
+Recommended,A Optimal,Categorical,3,beta_0,2,13,95.7,65.81,91.12,1
+Recommended,A Optimal,Categorical,3,beta_i,2,13,95.7,65.81,91.12,1
+Recommended,A Optimal,Categorical,3,beta_i_beta_j,2,13,95.7,65.81,91.12,1
+Recommended,A Optimal,Categorical,3,beta_i^2,2,13,95.7,65.81,91.12,NA
+Recommended,A Optimal,Continuous,4,beta_0,0,21,43.43,41.34,31.05,0.05
+Recommended,A Optimal,Continuous,4,beta_i,0,21,43.43,41.34,31.05,0.05
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,0,21,43.43,41.34,31.05,0.05
+Recommended,A Optimal,Continuous,4,beta_i^2,0,21,43.43,41.34,31.05,0.05
+Recommended,A Optimal,Continuous,4,beta_0,0.5,21,43.43,41.34,31.05,0.119
+Recommended,A Optimal,Continuous,4,beta_i,0.5,21,43.43,41.34,31.05,0.326
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,0.5,21,43.43,41.34,31.05,0.256
+Recommended,A Optimal,Continuous,4,beta_i^2,0.5,21,43.43,41.34,31.05,0.129
+Recommended,A Optimal,Continuous,4,beta_0,1,21,43.43,41.34,31.05,0.329
+Recommended,A Optimal,Continuous,4,beta_i,1,21,43.43,41.34,31.05,0.844
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,1,21,43.43,41.34,31.05,0.729
+Recommended,A Optimal,Continuous,4,beta_i^2,1,21,43.43,41.34,31.05,0.368
+Recommended,A Optimal,Continuous,4,beta_0,1.5,21,43.43,41.34,31.05,0.618
+Recommended,A Optimal,Continuous,4,beta_i,1.5,21,43.43,41.34,31.05,0.993
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,1.5,21,43.43,41.34,31.05,0.675
+Recommended,A Optimal,Continuous,4,beta_i^2,1.5,21,43.43,41.34,31.05,0.968
+Recommended,A Optimal,Continuous,4,beta_0,2,21,43.43,41.34,31.05,0.848
+Recommended,A Optimal,Continuous,4,beta_i,2,21,43.43,41.34,31.05,0.82
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,2,21,43.43,41.34,31.05,0.999
+Recommended,A Optimal,Continuous,4,beta_i^2,2,21,43.43,41.34,31.05,0.891
+Recommended,A Optimal,Categorical,4,beta_0,0,17,98.7,94.43,97.74,0.05
+Recommended,A Optimal,Categorical,4,beta_i,0,17,98.7,94.43,97.74,0.05
+Recommended,A Optimal,Categorical,4,beta_i_beta_j,0,17,98.7,94.43,97.74,0.05
+Recommended,A Optimal,Categorical,4,beta_i^2,0,17,98.7,94.43,97.74,NA
+Recommended,A Optimal,Categorical,4,beta_0,0.5,17,98.7,94.43,97.74,0.403
+Recommended,A Optimal,Categorical,4,beta_i,0.5,17,98.7,94.43,97.74,0.403
+Recommended,A Optimal,Categorical,4,beta_i_beta_j,0.5,17,98.7,94.43,97.74,0.403
+Recommended,A Optimal,Categorical,4,beta_i^2,0.5,17,98.7,94.43,97.74,NA
+Recommended,A Optimal,Categorical,4,beta_0,1,17,98.7,94.43,97.74,0.921
+Recommended,A Optimal,Categorical,4,beta_i,1,17,98.7,94.43,97.74,0.921
+Recommended,A Optimal,Categorical,4,beta_i_beta_j,1,17,98.7,94.43,97.74,0.921
+Recommended,A Optimal,Categorical,4,beta_i^2,1,17,98.7,94.43,97.74,NA
+Recommended,A Optimal,Categorical,4,beta_0,1.5,17,98.7,94.43,97.74,0.999
+Recommended,A Optimal,Categorical,4,beta_i,1.5,17,98.7,94.43,97.74,0.999
+Recommended,A Optimal,Categorical,4,beta_i_beta_j,1.5,17,98.7,94.43,97.74,0.999
+Recommended,A Optimal,Categorical,4,beta_i^2,1.5,17,98.7,94.43,97.74,NA
+Recommended,A Optimal,Categorical,4,beta_0,2,17,98.7,94.43,97.74,1
+Recommended,A Optimal,Categorical,4,beta_i,2,17,98.7,94.43,97.74,1
+Recommended,A Optimal,Categorical,4,beta_i_beta_j,2,17,98.7,94.43,97.74,1
+Recommended,A Optimal,Categorical,4,beta_i^2,2,17,98.7,94.43,97.74,NA
+Recommended,A Optimal,Continuous,5,beta_0,0,27,43.09,44.09,31.08,0.05
+Recommended,A Optimal,Continuous,5,beta_i,0,27,43.09,44.09,31.08,0.05
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,0,27,43.09,44.09,31.08,0.05
+Recommended,A Optimal,Continuous,5,beta_i^2,0,27,43.09,44.09,31.08,0.05
+Recommended,A Optimal,Continuous,5,beta_0,0.5,27,43.09,44.09,31.08,0.114
+Recommended,A Optimal,Continuous,5,beta_i,0.5,27,43.09,44.09,31.08,0.4
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,0.5,27,43.09,44.09,31.08,0.313
+Recommended,A Optimal,Continuous,5,beta_i^2,0.5,27,43.09,44.09,31.08,0.144
+Recommended,A Optimal,Continuous,5,beta_0,1,27,43.09,44.09,31.08,0.309
+Recommended,A Optimal,Continuous,5,beta_i,1,27,43.09,44.09,31.08,0.918
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,1,27,43.09,44.09,31.08,0.826
+Recommended,A Optimal,Continuous,5,beta_i^2,1,27,43.09,44.09,31.08,0.42
+Recommended,A Optimal,Continuous,5,beta_0,1.5,27,43.09,44.09,31.08,0.585
+Recommended,A Optimal,Continuous,5,beta_i,1.5,27,43.09,44.09,31.08,0.999
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,1.5,27,43.09,44.09,31.08,0.99
+Recommended,A Optimal,Continuous,5,beta_i^2,1.5,27,43.09,44.09,31.08,0.743
+Recommended,A Optimal,Continuous,5,beta_0,2,27,43.09,44.09,31.08,0.821
+Recommended,A Optimal,Continuous,5,beta_i,2,27,43.09,44.09,31.08,1
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,2,27,43.09,44.09,31.08,1
+Recommended,A Optimal,Continuous,5,beta_i^2,2,27,43.09,44.09,31.08,0.933
+Recommended,A Optimal,Categorical,5,beta_0,0,22,94.31,72.72,89.51,0.05
+Recommended,A Optimal,Categorical,5,beta_i,0,22,94.31,72.72,89.51,0.05
+Recommended,A Optimal,Categorical,5,beta_i_beta_j,0,22,94.31,72.72,89.51,0.05
+Recommended,A Optimal,Categorical,5,beta_i^2,0,22,94.31,72.72,89.51,NA
+Recommended,A Optimal,Categorical,5,beta_0,0.5,22,94.31,72.72,89.51,0.462
+Recommended,A Optimal,Categorical,5,beta_i,0.5,22,94.31,72.72,89.51,0.462
+Recommended,A Optimal,Categorical,5,beta_i_beta_j,0.5,22,94.31,72.72,89.51,0.462
+Recommended,A Optimal,Categorical,5,beta_i^2,0.5,22,94.31,72.72,89.51,NA
+Recommended,A Optimal,Categorical,5,beta_0,1,22,94.31,72.72,89.51,0.956
+Recommended,A Optimal,Categorical,5,beta_i,1,22,94.31,72.72,89.51,0.956
+Recommended,A Optimal,Categorical,5,beta_i_beta_j,1,22,94.31,72.72,89.51,0.956
+Recommended,A Optimal,Categorical,5,beta_i^2,1,22,94.31,72.72,89.51,NA
+Recommended,A Optimal,Categorical,5,beta_0,1.5,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i,1.5,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i_beta_j,1.5,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i^2,1.5,22,94.31,72.72,89.51,NA
+Recommended,A Optimal,Categorical,5,beta_0,2,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i,2,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i_beta_j,2,22,94.31,72.72,89.51,1
+Recommended,A Optimal,Categorical,5,beta_i^2,2,22,94.31,72.72,89.51,NA
+Recommended,Alias Optimal,Continuous,2,beta_0,0,12,46.53,63.1,27.26,0.05
+Recommended,Alias Optimal,Continuous,2,beta_i,0,12,46.53,63.1,27.26,0.05
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,0,12,46.53,63.1,27.26,0.05
+Recommended,Alias Optimal,Continuous,2,beta_i^2,0,12,46.53,63.1,27.26,0.05
+Recommended,Alias Optimal,Continuous,2,beta_0,0.5,12,46.53,63.1,27.26,0.089
+Recommended,Alias Optimal,Continuous,2,beta_i,0.5,12,46.53,63.1,27.26,0.234
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,0.5,12,46.53,63.1,27.26,0.191
+Recommended,Alias Optimal,Continuous,2,beta_i^2,0.5,12,46.53,63.1,27.26,0.097
+Recommended,Alias Optimal,Continuous,2,beta_0,1,12,46.53,63.1,27.26,0.212
+Recommended,Alias Optimal,Continuous,2,beta_i,1,12,46.53,63.1,27.26,0.682
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,1,12,46.53,63.1,27.26,0.572
+Recommended,Alias Optimal,Continuous,2,beta_i^2,1,12,46.53,63.1,27.26,0.24
+Recommended,Alias Optimal,Continuous,2,beta_0,1.5,12,46.53,63.1,27.26,0.407
+Recommended,Alias Optimal,Continuous,2,beta_i,1.5,12,46.53,63.1,27.26,0.95
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,1.5,12,46.53,63.1,27.26,0.889
+Recommended,Alias Optimal,Continuous,2,beta_i^2,1.5,12,46.53,63.1,27.26,0.463
+Recommended,Alias Optimal,Continuous,2,beta_0,2,12,46.53,63.1,27.26,0.628
+Recommended,Alias Optimal,Continuous,2,beta_i,2,12,46.53,63.1,27.26,0.997
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,2,12,46.53,63.1,27.26,0.987
+Recommended,Alias Optimal,Continuous,2,beta_i^2,2,12,46.53,63.1,27.26,0.697
+Recommended,Alias Optimal,Categorical,2,beta_0,0,10,97.97,80,96,0.05
+Recommended,Alias Optimal,Categorical,2,beta_i,0,10,97.97,80,96,0.05
+Recommended,Alias Optimal,Categorical,2,beta_i_beta_j,0,10,97.97,80,96,0.05
+Recommended,Alias Optimal,Categorical,2,beta_i^2,0,10,97.97,80,96,NA
+Recommended,Alias Optimal,Categorical,2,beta_0,0.5,10,97.97,80,96,0.258
+Recommended,Alias Optimal,Categorical,2,beta_i,0.5,10,97.97,80,96,0.258
+Recommended,Alias Optimal,Categorical,2,beta_i_beta_j,0.5,10,97.97,80,96,0.258
+Recommended,Alias Optimal,Categorical,2,beta_i^2,0.5,10,97.97,80,96,NA
+Recommended,Alias Optimal,Categorical,2,beta_0,1,10,97.97,80,96,0.734
+Recommended,Alias Optimal,Categorical,2,beta_i,1,10,97.97,80,96,0.734
+Recommended,Alias Optimal,Categorical,2,beta_i_beta_j,1,10,97.97,80,96,0.734
+Recommended,Alias Optimal,Categorical,2,beta_i^2,1,10,97.97,80,96,NA
+Recommended,Alias Optimal,Categorical,2,beta_0,1.5,10,97.97,80,96,0.969
+Recommended,Alias Optimal,Categorical,2,beta_i,1.5,10,97.97,80,96,0.969
+Recommended,Alias Optimal,Categorical,2,beta_i_beta_j,1.5,10,97.97,80,96,0.969
+Recommended,Alias Optimal,Categorical,2,beta_i^2,1.5,10,97.97,80,96,NA
+Recommended,Alias Optimal,Categorical,2,beta_0,2,10,97.97,80,96,1
+Recommended,Alias Optimal,Categorical,2,beta_i,2,10,97.97,80,96,1
+Recommended,Alias Optimal,Categorical,2,beta_i_beta_j,2,10,97.97,80,96,1
+Recommended,Alias Optimal,Categorical,2,beta_i^2,2,10,97.97,80,96,NA
+Recommended,Alias Optimal,Continuous,3,beta_0,0,16,45.81,73.91,25.19,0.05
+Recommended,Alias Optimal,Continuous,3,beta_i,0,16,45.81,73.91,25.19,0.05
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,0,16,45.81,73.91,25.19,0.05
+Recommended,Alias Optimal,Continuous,3,beta_i^2,0,16,45.81,73.91,25.19,0.05
+Recommended,Alias Optimal,Continuous,3,beta_0,0.5,16,45.81,73.91,25.19,0.082
+Recommended,Alias Optimal,Continuous,3,beta_i,0.5,16,45.81,73.91,25.19,0.294
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,0.5,16,45.81,73.91,25.19,0.247
+Recommended,Alias Optimal,Continuous,3,beta_i^2,0.5,16,45.81,73.91,25.19,0.109
+Recommended,Alias Optimal,Continuous,3,beta_0,1,16,45.81,73.91,25.19,0.18
+Recommended,Alias Optimal,Continuous,3,beta_i,1,16,45.81,73.91,25.19,0.798
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,1,16,45.81,73.91,25.19,0.711
+Recommended,Alias Optimal,Continuous,3,beta_i^2,1,16,45.81,73.91,25.19,0.29
+Recommended,Alias Optimal,Continuous,3,beta_0,1.5,16,45.81,73.91,25.19,0.341
+Recommended,Alias Optimal,Continuous,3,beta_i,1.5,16,45.81,73.91,25.19,0.985
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,1.5,16,45.81,73.91,25.19,0.961
+Recommended,Alias Optimal,Continuous,3,beta_i^2,1.5,16,45.81,73.91,25.19,0.554
+Recommended,Alias Optimal,Continuous,3,beta_0,2,16,45.81,73.91,25.19,0.538
+Recommended,Alias Optimal,Continuous,3,beta_i,2,16,45.81,73.91,25.19,1
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,2,16,45.81,73.91,25.19,0.998
+Recommended,Alias Optimal,Continuous,3,beta_i^2,2,16,45.81,73.91,25.19,0.792
+Recommended,Alias Optimal,Categorical,3,beta_0,0,13,95.7,65.81,91.12,0.05
+Recommended,Alias Optimal,Categorical,3,beta_i,0,13,95.7,65.81,91.12,0.05
+Recommended,Alias Optimal,Categorical,3,beta_i_beta_j,0,13,95.7,65.81,91.12,0.05
+Recommended,Alias Optimal,Categorical,3,beta_i^2,0,13,95.7,65.81,91.12,NA
+Recommended,Alias Optimal,Categorical,3,beta_0,0.5,13,95.7,65.81,91.12,0.304
+Recommended,Alias Optimal,Categorical,3,beta_i,0.5,13,95.7,65.81,91.12,0.304
+Recommended,Alias Optimal,Categorical,3,beta_i_beta_j,0.5,13,95.7,65.81,91.12,0.304
+Recommended,Alias Optimal,Categorical,3,beta_i^2,0.5,13,95.7,65.81,91.12,NA
+Recommended,Alias Optimal,Categorical,3,beta_0,1,13,95.7,65.81,91.12,0.813
+Recommended,Alias Optimal,Categorical,3,beta_i,1,13,95.7,65.81,91.12,0.813
+Recommended,Alias Optimal,Categorical,3,beta_i_beta_j,1,13,95.7,65.81,91.12,0.813
+Recommended,Alias Optimal,Categorical,3,beta_i^2,1,13,95.7,65.81,91.12,NA
+Recommended,Alias Optimal,Categorical,3,beta_0,1.5,13,95.7,65.81,91.12,0.988
+Recommended,Alias Optimal,Categorical,3,beta_i,1.5,13,95.7,65.81,91.12,0.988
+Recommended,Alias Optimal,Categorical,3,beta_i_beta_j,1.5,13,95.7,65.81,91.12,0.988
+Recommended,Alias Optimal,Categorical,3,beta_i^2,1.5,13,95.7,65.81,91.12,NA
+Recommended,Alias Optimal,Categorical,3,beta_0,2,13,95.7,65.81,91.12,1
+Recommended,Alias Optimal,Categorical,3,beta_i,2,13,95.7,65.81,91.12,1
+Recommended,Alias Optimal,Categorical,3,beta_i_beta_j,2,13,95.7,65.81,91.12,1
+Recommended,Alias Optimal,Categorical,3,beta_i^2,2,13,95.7,65.81,91.12,NA
+Recommended,Alias Optimal,Continuous,4,beta_0,0,21,46.12,57.03,24.15,0.05
+Recommended,Alias Optimal,Continuous,4,beta_i,0,21,46.12,57.03,24.15,0.05
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,0,21,46.12,57.03,24.15,0.05
+Recommended,Alias Optimal,Continuous,4,beta_i^2,0,21,46.12,57.03,24.15,0.05
+Recommended,Alias Optimal,Continuous,4,beta_0,0.5,21,46.12,57.03,24.15,0.078
+Recommended,Alias Optimal,Continuous,4,beta_i,0.5,21,46.12,57.03,24.15,0.375
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,0.5,21,46.12,57.03,24.15,0.295
+Recommended,Alias Optimal,Continuous,4,beta_i^2,0.5,21,46.12,57.03,24.15,0.112
+Recommended,Alias Optimal,Continuous,4,beta_0,1,21,46.12,57.03,24.15,0.163
+Recommended,Alias Optimal,Continuous,4,beta_i,1,21,46.12,57.03,24.15,0.898
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,1,21,46.12,57.03,24.15,0.799
+Recommended,Alias Optimal,Continuous,4,beta_i^2,1,21,46.12,57.03,24.15,0.301
+Recommended,Alias Optimal,Continuous,4,beta_0,1.5,21,46.12,57.03,24.15,0.306
+Recommended,Alias Optimal,Continuous,4,beta_i,1.5,21,46.12,57.03,24.15,0.998
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,1.5,21,46.12,57.03,24.15,0.986
+Recommended,Alias Optimal,Continuous,4,beta_i^2,1.5,21,46.12,57.03,24.15,0.571
+Recommended,Alias Optimal,Continuous,4,beta_0,2,21,46.12,57.03,24.15,0.487
+Recommended,Alias Optimal,Continuous,4,beta_i,2,21,46.12,57.03,24.15,1
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,2,21,46.12,57.03,24.15,1
+Recommended,Alias Optimal,Continuous,4,beta_i^2,2,21,46.12,57.03,24.15,0.809
+Recommended,Alias Optimal,Categorical,4,beta_0,0,17,98.7,94.44,97.73,0.05
+Recommended,Alias Optimal,Categorical,4,beta_i,0,17,98.7,94.44,97.73,0.05
+Recommended,Alias Optimal,Categorical,4,beta_i_beta_j,0,17,98.7,94.44,97.73,0.05
+Recommended,Alias Optimal,Categorical,4,beta_i^2,0,17,98.7,94.44,97.73,NA
+Recommended,Alias Optimal,Categorical,4,beta_0,0.5,17,98.7,94.44,97.73,0.403
+Recommended,Alias Optimal,Categorical,4,beta_i,0.5,17,98.7,94.44,97.73,0.403
+Recommended,Alias Optimal,Categorical,4,beta_i_beta_j,0.5,17,98.7,94.44,97.73,0.403
+Recommended,Alias Optimal,Categorical,4,beta_i^2,0.5,17,98.7,94.44,97.73,NA
+Recommended,Alias Optimal,Categorical,4,beta_0,1,17,98.7,94.44,97.73,0.921
+Recommended,Alias Optimal,Categorical,4,beta_i,1,17,98.7,94.44,97.73,0.921
+Recommended,Alias Optimal,Categorical,4,beta_i_beta_j,1,17,98.7,94.44,97.73,0.921
+Recommended,Alias Optimal,Categorical,4,beta_i^2,1,17,98.7,94.44,97.73,NA
+Recommended,Alias Optimal,Categorical,4,beta_0,1.5,17,98.7,94.44,97.73,0.999
+Recommended,Alias Optimal,Categorical,4,beta_i,1.5,17,98.7,94.44,97.73,0.999
+Recommended,Alias Optimal,Categorical,4,beta_i_beta_j,1.5,17,98.7,94.44,97.73,0.999
+Recommended,Alias Optimal,Categorical,4,beta_i^2,1.5,17,98.7,94.44,97.73,NA
+Recommended,Alias Optimal,Categorical,4,beta_0,2,17,98.7,94.44,97.73,1
+Recommended,Alias Optimal,Categorical,4,beta_i,2,17,98.7,94.44,97.73,1
+Recommended,Alias Optimal,Categorical,4,beta_i_beta_j,2,17,98.7,94.44,97.73,1
+Recommended,Alias Optimal,Categorical,4,beta_i^2,2,17,98.7,94.44,97.73,NA
+Recommended,Alias Optimal,Continuous,5,beta_0,0,27,47.85,67.79,25.18,0.05
+Recommended,Alias Optimal,Continuous,5,beta_i,0,27,47.85,67.79,25.18,0.05
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,0,27,47.85,67.79,25.18,0.05
+Recommended,Alias Optimal,Continuous,5,beta_i^2,0,27,47.85,67.79,25.18,0.05
+Recommended,Alias Optimal,Continuous,5,beta_0,0.5,27,47.85,67.79,25.18,0.082
+Recommended,Alias Optimal,Continuous,5,beta_i,0.5,27,47.85,67.79,25.18,0.456
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,0.5,27,47.85,67.79,25.18,0.427
+Recommended,Alias Optimal,Continuous,5,beta_i^2,0.5,27,47.85,67.79,25.18,0.114
+Recommended,Alias Optimal,Continuous,5,beta_0,1,27,47.85,67.79,25.18,0.181
+Recommended,Alias Optimal,Continuous,5,beta_i,1,27,47.85,67.79,25.18,0.953
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,1,27,47.85,67.79,25.18,0.937
+Recommended,Alias Optimal,Continuous,5,beta_i^2,1,27,47.85,67.79,25.18,0.31
+Recommended,Alias Optimal,Continuous,5,beta_0,1.5,27,47.85,67.79,25.18,0.343
+Recommended,Alias Optimal,Continuous,5,beta_i,1.5,27,47.85,67.79,25.18,1
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,1.5,27,47.85,67.79,25.18,0.999
+Recommended,Alias Optimal,Continuous,5,beta_i^2,1.5,27,47.85,67.79,25.18,0.586
+Recommended,Alias Optimal,Continuous,5,beta_0,2,27,47.85,67.79,25.18,0.542
+Recommended,Alias Optimal,Continuous,5,beta_i,2,27,47.85,67.79,25.18,1
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,2,27,47.85,67.79,25.18,1
+Recommended,Alias Optimal,Continuous,5,beta_i^2,2,27,47.85,67.79,25.18,0.822
+Recommended,Alias Optimal,Categorical,5,beta_0,0,22,94.31,72.72,89.51,0.05
+Recommended,Alias Optimal,Categorical,5,beta_i,0,22,94.31,72.72,89.51,0.05
+Recommended,Alias Optimal,Categorical,5,beta_i_beta_j,0,22,94.31,72.72,89.51,0.05
+Recommended,Alias Optimal,Categorical,5,beta_i^2,0,22,94.31,72.72,89.51,NA
+Recommended,Alias Optimal,Categorical,5,beta_0,0.5,22,94.31,72.72,89.51,0.462
+Recommended,Alias Optimal,Categorical,5,beta_i,0.5,22,94.31,72.72,89.51,0.462
+Recommended,Alias Optimal,Categorical,5,beta_i_beta_j,0.5,22,94.31,72.72,89.51,0.462
+Recommended,Alias Optimal,Categorical,5,beta_i^2,0.5,22,94.31,72.72,89.51,NA
+Recommended,Alias Optimal,Categorical,5,beta_0,1,22,94.31,72.72,89.51,0.956
+Recommended,Alias Optimal,Categorical,5,beta_i,1,22,94.31,72.72,89.51,0.956
+Recommended,Alias Optimal,Categorical,5,beta_i_beta_j,1,22,94.31,72.72,89.51,0.956
+Recommended,Alias Optimal,Categorical,5,beta_i^2,1,22,94.31,72.72,89.51,NA
+Recommended,Alias Optimal,Categorical,5,beta_0,1.5,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i,1.5,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i_beta_j,1.5,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i^2,1.5,22,94.31,72.72,89.51,NA
+Recommended,Alias Optimal,Categorical,5,beta_0,2,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i,2,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i_beta_j,2,22,94.31,72.72,89.51,1
+Recommended,Alias Optimal,Categorical,5,beta_i^2,2,22,94.31,72.72,89.51,NA
+Recommended,CCD-O,Continuous,2,beta_0,0,10,47.63,78.31,35.24,0.05
+Recommended,CCD-O,Continuous,2,beta_i,0,10,47.63,78.31,35.24,0.05
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,0,10,47.63,78.31,35.24,0.05
+Recommended,CCD-O,Continuous,2,beta_i^2,0,10,47.63,78.31,35.24,0.05
+Recommended,CCD-O,Continuous,2,beta_0,0.5,10,47.63,78.31,35.24,0.095
+Recommended,CCD-O,Continuous,2,beta_i,0.5,10,47.63,78.31,35.24,0.165
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,0.5,10,47.63,78.31,35.24,0.122
+Recommended,CCD-O,Continuous,2,beta_i^2,0.5,10,47.63,78.31,35.24,0.099
+Recommended,CCD-O,Continuous,2,beta_0,1,10,47.63,78.31,35.24,0.233
+Recommended,CCD-O,Continuous,2,beta_i,1,10,47.63,78.31,35.24,0.482
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,1,10,47.63,78.31,35.24,0.336
+Recommended,CCD-O,Continuous,2,beta_i^2,1,10,47.63,78.31,35.24,0.246
+Recommended,CCD-O,Continuous,2,beta_0,1.5,10,47.63,78.31,35.24,0.444
+Recommended,CCD-O,Continuous,2,beta_i,1.5,10,47.63,78.31,35.24,0.802
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,1.5,10,47.63,78.31,35.24,0.619
+Recommended,CCD-O,Continuous,2,beta_i^2,1.5,10,47.63,78.31,35.24,0.467
+Recommended,CCD-O,Continuous,2,beta_0,2,10,47.63,78.31,35.24,0.667
+Recommended,CCD-O,Continuous,2,beta_i,2,10,47.63,78.31,35.24,0.957
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,2,10,47.63,78.31,35.24,0.694
+Recommended,CCD-O,Continuous,2,beta_i^2,2,10,47.63,78.31,35.24,0.843
+Recommended,CCD-O,Continuous,3,beta_0,0,16,53.11,83.38,41.05,0.05
+Recommended,CCD-O,Continuous,3,beta_i,0,16,53.11,83.38,41.05,0.05
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,0,16,53.11,83.38,41.05,0.05
+Recommended,CCD-O,Continuous,3,beta_i^2,0,16,53.11,83.38,41.05,0.05
+Recommended,CCD-O,Continuous,3,beta_0,0.5,16,53.11,83.38,41.05,0.113
+Recommended,CCD-O,Continuous,3,beta_i,0.5,16,53.11,83.38,41.05,0.295
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,0.5,16,53.11,83.38,41.05,0.223
+Recommended,CCD-O,Continuous,3,beta_i^2,0.5,16,53.11,83.38,41.05,0.168
+Recommended,CCD-O,Continuous,3,beta_0,1,16,53.11,83.38,41.05,0.307
+Recommended,CCD-O,Continuous,3,beta_i,1,16,53.11,83.38,41.05,0.799
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,1,16,53.11,83.38,41.05,0.657
+Recommended,CCD-O,Continuous,3,beta_i^2,1,16,53.11,83.38,41.05,0.508
+Recommended,CCD-O,Continuous,3,beta_0,1.5,16,53.11,83.38,41.05,0.582
+Recommended,CCD-O,Continuous,3,beta_i,1.5,16,53.11,83.38,41.05,0.985
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,1.5,16,53.11,83.38,41.05,0.832
+Recommended,CCD-O,Continuous,3,beta_i^2,1.5,16,53.11,83.38,41.05,0.939
+Recommended,CCD-O,Continuous,3,beta_0,2,16,53.11,83.38,41.05,0.819
+Recommended,CCD-O,Continuous,3,beta_i,2,16,53.11,83.38,41.05,1
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,2,16,53.11,83.38,41.05,0.971
+Recommended,CCD-O,Continuous,3,beta_i^2,2,16,53.11,83.38,41.05,0.996
+Recommended,CCD-O,Continuous,4,beta_0,0,26,59.28,91.75,45.13,0.05
+Recommended,CCD-O,Continuous,4,beta_i,0,26,59.28,91.75,45.13,0.05
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,0,26,59.28,91.75,45.13,0.05
+Recommended,CCD-O,Continuous,4,beta_i^2,0,26,59.28,91.75,45.13,0.05
+Recommended,CCD-O,Continuous,4,beta_0,0.5,26,59.28,91.75,45.13,0.392
+Recommended,CCD-O,Continuous,4,beta_i,0.5,26,59.28,91.75,45.13,0.984
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,0.5,26,59.28,91.75,45.13,0.953
+Recommended,CCD-O,Continuous,4,beta_i^2,0.5,26,59.28,91.75,45.13,0.808
+Recommended,CCD-O,Continuous,4,beta_0,1,26,59.28,91.75,45.13,0.392
+Recommended,CCD-O,Continuous,4,beta_i,1,26,59.28,91.75,45.13,0.984
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,1,26,59.28,91.75,45.13,0.953
+Recommended,CCD-O,Continuous,4,beta_i^2,1,26,59.28,91.75,45.13,0.808
+Recommended,CCD-O,Continuous,4,beta_0,1.5,26,59.28,91.75,45.13,0.713
+Recommended,CCD-O,Continuous,4,beta_i,1.5,26,59.28,91.75,45.13,1
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,1.5,26,59.28,91.75,45.13,0.988
+Recommended,CCD-O,Continuous,4,beta_i^2,1.5,26,59.28,91.75,45.13,1
+Recommended,CCD-O,Continuous,4,beta_0,2,26,59.28,91.75,45.13,0.919
+Recommended,CCD-O,Continuous,4,beta_i,2,26,59.28,91.75,45.13,1
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,2,26,59.28,91.75,45.13,1
+Recommended,CCD-O,Continuous,4,beta_i^2,2,26,59.28,91.75,45.13,1
+Recommended,CCD-O,Continuous,5,beta_0,0,28,60.08,81.58,50.47,0.05
+Recommended,CCD-O,Continuous,5,beta_i,0,28,60.08,81.58,50.47,0.05
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,0,28,60.08,81.58,50.47,0.05
+Recommended,CCD-O,Continuous,5,beta_i^2,0,28,60.08,81.58,50.47,0.05
+Recommended,CCD-O,Continuous,5,beta_0,0.5,28,60.08,81.58,50.47,0.14
+Recommended,CCD-O,Continuous,5,beta_i,0.5,28,60.08,81.58,50.47,0.509
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,0.5,28,60.08,81.58,50.47,0.408
+Recommended,CCD-O,Continuous,5,beta_i^2,0.5,28,60.08,81.58,50.47,0.352
+Recommended,CCD-O,Continuous,5,beta_0,1,28,60.08,81.58,50.47,0.408
+Recommended,CCD-O,Continuous,5,beta_i,1,28,60.08,81.58,50.47,0.974
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,1,28,60.08,81.58,50.47,0.927
+Recommended,CCD-O,Continuous,5,beta_i^2,1,28,60.08,81.58,50.47,0.878
+Recommended,CCD-O,Continuous,5,beta_0,1.5,28,60.08,81.58,50.47,0.731
+Recommended,CCD-O,Continuous,5,beta_i,1.5,28,60.08,81.58,50.47,1
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,1.5,28,60.08,81.58,50.47,0.999
+Recommended,CCD-O,Continuous,5,beta_i^2,1.5,28,60.08,81.58,50.47,0.996
+Recommended,CCD-O,Continuous,5,beta_0,2,28,60.08,81.58,50.47,0.927
+Recommended,CCD-O,Continuous,5,beta_i,2,28,60.08,81.58,50.47,1
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,2,28,60.08,81.58,50.47,1
+Recommended,CCD-O,Continuous,5,beta_i^2,2,28,60.08,81.58,50.47,1
+Recommended,CCD-R,Continuous,2,beta_0,0,10,63.49,96,41.73,0.05
+Recommended,CCD-R,Continuous,2,beta_i,0,10,63.49,96,41.73,0.05
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,0,10,63.49,96,41.73,0.05
+Recommended,CCD-R,Continuous,2,beta_i^2,0,10,63.49,96,41.73,0.05
+Recommended,CCD-R,Continuous,2,beta_0,0.5,10,63.49,96,41.73,0.086
+Recommended,CCD-R,Continuous,2,beta_i,0.5,10,63.49,96,41.73,0.195
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,0.5,10,63.49,96,41.73,0.122
+Recommended,CCD-R,Continuous,2,beta_i^2,0.5,10,63.49,96,41.73,0.133
+Recommended,CCD-R,Continuous,2,beta_0,1,10,63.49,96,41.73,0.195
+Recommended,CCD-R,Continuous,2,beta_i,1,10,63.49,96,41.73,0.572
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,1,10,63.49,96,41.73,0.336
+Recommended,CCD-R,Continuous,2,beta_i^2,1,10,63.49,96,41.73,0.374
+Recommended,CCD-R,Continuous,2,beta_0,1.5,10,63.49,96,41.73,0.369
+Recommended,CCD-R,Continuous,2,beta_i,1.5,10,63.49,96,41.73,0.88
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,1.5,10,63.49,96,41.73,0.619
+Recommended,CCD-R,Continuous,2,beta_i^2,1.5,10,63.49,96,41.73,0.674
+Recommended,CCD-R,Continuous,2,beta_0,2,10,63.49,96,41.73,0.572
+Recommended,CCD-R,Continuous,2,beta_i,2,10,63.49,96,41.73,0.984
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,2,10,63.49,96,41.73,0.885
+Recommended,CCD-R,Continuous,2,beta_i^2,2,10,63.49,96,41.73,0.843
+Recommended,CCD-R,Continuous,3,beta_0,0,16,42.99,78.55,30.68,0.05
+Recommended,CCD-R,Continuous,3,beta_i,0,16,42.99,78.55,30.68,0.05
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,0,16,42.99,78.55,30.68,0.05
+Recommended,CCD-R,Continuous,3,beta_i^2,0,16,42.99,78.55,30.68,0.05
+Recommended,CCD-R,Continuous,3,beta_0,0.5,16,42.99,78.55,30.68,0.146
+Recommended,CCD-R,Continuous,3,beta_i,0.5,16,42.99,78.55,30.68,0.267
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,0.5,16,42.99,78.55,30.68,0.223
+Recommended,CCD-R,Continuous,3,beta_i^2,0.5,16,42.99,78.55,30.68,0.106
+Recommended,CCD-R,Continuous,3,beta_0,1,16,42.99,78.55,30.68,0.427
+Recommended,CCD-R,Continuous,3,beta_i,1,16,42.99,78.55,30.68,0.75
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,1,16,42.99,78.55,30.68,0.657
+Recommended,CCD-R,Continuous,3,beta_i^2,1,16,42.99,78.55,30.68,0.278
+Recommended,CCD-R,Continuous,3,beta_0,1.5,16,42.99,78.55,30.68,0.752
+Recommended,CCD-R,Continuous,3,beta_i,1.5,16,42.99,78.55,30.68,0.974
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,1.5,16,42.99,78.55,30.68,0.533
+Recommended,CCD-R,Continuous,3,beta_i^2,1.5,16,42.99,78.55,30.68,0.939
+Recommended,CCD-R,Continuous,3,beta_0,2,16,42.99,78.55,30.68,0.937
+Recommended,CCD-R,Continuous,3,beta_i,2,16,42.99,78.55,30.68,0.999
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,2,16,42.99,78.55,30.68,0.996
+Recommended,CCD-R,Continuous,3,beta_i^2,2,16,42.99,78.55,30.68,0.772
+Recommended,CCD-R,Continuous,4,beta_0,0,26,77.26,98.9,45.4,0.05
+Recommended,CCD-R,Continuous,4,beta_i,0,26,77.26,98.9,45.4,0.05
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,0,26,77.26,98.9,45.4,0.05
+Recommended,CCD-R,Continuous,4,beta_i^2,0,26,77.26,98.9,45.4,0.05
+Recommended,CCD-R,Continuous,4,beta_0,0.5,26,77.26,98.9,45.4,0.099
+Recommended,CCD-R,Continuous,4,beta_i,0.5,26,77.26,98.9,45.4,0.608
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,0.5,26,77.26,98.9,45.4,0.446
+Recommended,CCD-R,Continuous,4,beta_i^2,0.5,26,77.26,98.9,45.4,0.478
+Recommended,CCD-R,Continuous,4,beta_0,1,26,77.26,98.9,45.4,0.253
+Recommended,CCD-R,Continuous,4,beta_i,1,26,77.26,98.9,45.4,0.993
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,1,26,77.26,98.9,45.4,0.953
+Recommended,CCD-R,Continuous,4,beta_i^2,1,26,77.26,98.9,45.4,0.967
+Recommended,CCD-R,Continuous,4,beta_0,1.5,26,77.26,98.9,45.4,0.49
+Recommended,CCD-R,Continuous,4,beta_i,1.5,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,1.5,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,4,beta_i^2,1.5,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,4,beta_0,2,26,77.26,98.9,45.4,0.731
+Recommended,CCD-R,Continuous,4,beta_i,2,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,2,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,4,beta_i^2,2,26,77.26,98.9,45.4,1
+Recommended,CCD-R,Continuous,5,beta_0,0,28,71.82,85.21,49.83,0.05
+Recommended,CCD-R,Continuous,5,beta_i,0,28,71.82,85.21,49.83,0.05
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,0,28,71.82,85.21,49.83,0.05
+Recommended,CCD-R,Continuous,5,beta_i^2,0,28,71.82,85.21,49.83,0.05
+Recommended,CCD-R,Continuous,5,beta_0,0.5,28,71.82,85.21,49.83,0.101
+Recommended,CCD-R,Continuous,5,beta_i,0.5,28,71.82,85.21,49.83,0.559
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,0.5,28,71.82,85.21,49.83,0.408
+Recommended,CCD-R,Continuous,5,beta_i^2,0.5,28,71.82,85.21,49.83,0.512
+Recommended,CCD-R,Continuous,5,beta_0,1,28,71.82,85.21,49.83,0.258
+Recommended,CCD-R,Continuous,5,beta_i,1,28,71.82,85.21,49.83,0.986
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,1,28,71.82,85.21,49.83,0.927
+Recommended,CCD-R,Continuous,5,beta_i^2,1,28,71.82,85.21,49.83,0.975
+Recommended,CCD-R,Continuous,5,beta_0,1.5,28,71.82,85.21,49.83,0.498
+Recommended,CCD-R,Continuous,5,beta_i,1.5,28,71.82,85.21,49.83,1
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,1.5,28,71.82,85.21,49.83,0.999
+Recommended,CCD-R,Continuous,5,beta_i^2,1.5,28,71.82,85.21,49.83,1
+Recommended,CCD-R,Continuous,5,beta_0,2,28,71.82,85.21,49.83,0.737
+Recommended,CCD-R,Continuous,5,beta_i,2,28,71.82,85.21,49.83,1
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,2,28,71.82,85.21,49.83,1
+Recommended,CCD-R,Continuous,5,beta_i^2,2,28,71.82,85.21,49.83,1
+Recommended,BBD,Continuous,3,beta_0,0,15,36.64,47.76,29.36,0.05
+Recommended,BBD,Continuous,3,beta_i,0,15,36.64,47.76,29.36,0.05
+Recommended,BBD,Continuous,3,beta_i_beta_j,0,15,36.64,47.76,29.36,0.05
+Recommended,BBD,Continuous,3,beta_i^2,0,15,36.64,47.76,29.36,0.05
+Recommended,BBD,Continuous,3,beta_0,0.5,15,36.64,47.76,29.36,0.11
+Recommended,BBD,Continuous,3,beta_i,0.5,15,36.64,47.76,29.36,0.211
+Recommended,BBD,Continuous,3,beta_i_beta_j,0.5,15,36.64,47.76,29.36,0.13
+Recommended,BBD,Continuous,3,beta_i^2,0.5,15,36.64,47.76,29.36,0.124
+Recommended,BBD,Continuous,3,beta_0,1,15,36.64,47.76,29.36,0.291
+Recommended,BBD,Continuous,3,beta_i,1,15,36.64,47.76,29.36,0.623
+Recommended,BBD,Continuous,3,beta_i_beta_j,1,15,36.64,47.76,29.36,0.368
+Recommended,BBD,Continuous,3,beta_i^2,1,15,36.64,47.76,29.36,0.345
+Recommended,BBD,Continuous,3,beta_0,1.5,15,36.64,47.76,29.36,0.553
+Recommended,BBD,Continuous,3,beta_i,1.5,15,36.64,47.76,29.36,0.919
+Recommended,BBD,Continuous,3,beta_i_beta_j,1.5,15,36.64,47.76,29.36,0.672
+Recommended,BBD,Continuous,3,beta_i^2,1.5,15,36.64,47.76,29.36,0.639
+Recommended,BBD,Continuous,3,beta_0,2,15,36.64,47.76,29.36,0.789
+Recommended,BBD,Continuous,3,beta_i,2,15,36.64,47.76,29.36,0.993
+Recommended,BBD,Continuous,3,beta_i_beta_j,2,15,36.64,47.76,29.36,0.887
+Recommended,BBD,Continuous,3,beta_i^2,2,15,36.64,47.76,29.36,0.863
+Recommended,BBD,Continuous,4,beta_0,0,27,25.21,23.81,19.05,0.05
+Recommended,BBD,Continuous,4,beta_i,0,27,25.21,23.81,19.05,0.05
+Recommended,BBD,Continuous,4,beta_i_beta_j,0,27,25.21,23.81,19.05,0.05
+Recommended,BBD,Continuous,4,beta_i^2,0,27,25.21,23.81,19.05,0.05
+Recommended,BBD,Continuous,4,beta_0,0.5,27,25.21,23.81,19.05,0.126
+Recommended,BBD,Continuous,4,beta_i,0.5,27,25.21,23.81,19.05,0.357
+Recommended,BBD,Continuous,4,beta_i_beta_j,0.5,27,25.21,23.81,19.05,0.152
+Recommended,BBD,Continuous,4,beta_i^2,0.5,27,25.21,23.81,19.05,0.186
+Recommended,BBD,Continuous,4,beta_0,1,27,25.21,23.81,19.05,0.357
+Recommended,BBD,Continuous,4,beta_i,1,27,25.21,23.81,19.05,0.888
+Recommended,BBD,Continuous,4,beta_i_beta_j,1,27,25.21,23.81,19.05,0.452
+Recommended,BBD,Continuous,4,beta_i^2,1,27,25.21,23.81,19.05,0.565
+Recommended,BBD,Continuous,4,beta_0,1.5,27,25.21,23.81,19.05,0.665
+Recommended,BBD,Continuous,4,beta_i,1.5,27,25.21,23.81,19.05,0.997
+Recommended,BBD,Continuous,4,beta_i_beta_j,1.5,27,25.21,23.81,19.05,0.788
+Recommended,BBD,Continuous,4,beta_i^2,1.5,27,25.21,23.81,19.05,0.888
+Recommended,BBD,Continuous,4,beta_0,2,27,25.21,23.81,19.05,0.888
+Recommended,BBD,Continuous,4,beta_i,2,27,25.21,23.81,19.05,1
+Recommended,BBD,Continuous,4,beta_i_beta_j,2,27,25.21,23.81,19.05,0.956
+Recommended,BBD,Continuous,4,beta_i^2,2,27,25.21,23.81,19.05,0.988
+Recommended,BBD,Continuous,5,beta_0,0,46,16.78,13.65,12.85,0.05
+Recommended,BBD,Continuous,5,beta_i,0,46,16.78,13.65,12.85,0.05
+Recommended,BBD,Continuous,5,beta_i_beta_j,0,46,16.78,13.65,12.85,0.05
+Recommended,BBD,Continuous,5,beta_i^2,0,46,16.78,13.65,12.85,0.05
+Recommended,BBD,Continuous,5,beta_0,0.5,46,16.78,13.65,12.85,0.218
+Recommended,BBD,Continuous,5,beta_i,0.5,46,16.78,13.65,12.85,0.485
+Recommended,BBD,Continuous,5,beta_i_beta_j,0.5,46,16.78,13.65,12.85,0.161
+Recommended,BBD,Continuous,5,beta_i^2,0.5,46,16.78,13.65,12.85,0.295
+Recommended,BBD,Continuous,5,beta_0,1,46,16.78,13.65,12.85,0.653
+Recommended,BBD,Continuous,5,beta_i,1,46,16.78,13.65,12.85,0.97
+Recommended,BBD,Continuous,5,beta_i_beta_j,1,46,16.78,13.65,12.85,0.485
+Recommended,BBD,Continuous,5,beta_i^2,1,46,16.78,13.65,12.85,0.81
+Recommended,BBD,Continuous,5,beta_0,1.5,46,16.78,13.65,12.85,0.942
+Recommended,BBD,Continuous,5,beta_i,1.5,46,16.78,13.65,12.85,1
+Recommended,BBD,Continuous,5,beta_i_beta_j,1.5,46,16.78,13.65,12.85,0.822
+Recommended,BBD,Continuous,5,beta_i^2,1.5,46,16.78,13.65,12.85,0.989
+Recommended,BBD,Continuous,5,beta_0,2,46,16.78,13.65,12.85,0.997
+Recommended,BBD,Continuous,5,beta_i,2,46,16.78,13.65,12.85,1
+Recommended,BBD,Continuous,5,beta_i_beta_j,2,46,16.78,13.65,12.85,0.97
+Recommended,BBD,Continuous,5,beta_i^2,2,46,16.78,13.65,12.85,1
+Equal,D Optimal,Continuous,2,beta_0,0,20,47.18,85.64,27.64,0.05
+Equal,D Optimal,Continuous,2,beta_i,0,20,47.18,85.64,27.64,0.05
+Equal,D Optimal,Continuous,2,beta_i_beta_j,0,20,47.18,85.64,27.64,0.05
+Equal,D Optimal,Continuous,2,beta_i^2,0,20,47.18,85.64,27.64,0.05
+Equal,D Optimal,Continuous,2,beta_0,0.5,20,47.18,85.64,27.64,0.136
+Equal,D Optimal,Continuous,2,beta_i,0.5,20,47.18,85.64,27.64,0.432
+Equal,D Optimal,Continuous,2,beta_i_beta_j,0.5,20,47.18,85.64,27.64,0.365
+Equal,D Optimal,Continuous,2,beta_i^2,0.5,20,47.18,85.64,27.64,0.142
+Equal,D Optimal,Continuous,2,beta_0,1,20,47.18,85.64,27.64,0.395
+Equal,D Optimal,Continuous,2,beta_i,1,20,47.18,85.64,27.64,0.946
+Equal,D Optimal,Continuous,2,beta_i_beta_j,1,20,47.18,85.64,27.64,0.896
+Equal,D Optimal,Continuous,2,beta_i^2,1,20,47.18,85.64,27.64,0.418
+Equal,D Optimal,Continuous,2,beta_0,1.5,20,47.18,85.64,27.64,0.718
+Equal,D Optimal,Continuous,2,beta_i,1.5,20,47.18,85.64,27.64,1
+Equal,D Optimal,Continuous,2,beta_i_beta_j,1.5,20,47.18,85.64,27.64,0.998
+Equal,D Optimal,Continuous,2,beta_i^2,1.5,20,47.18,85.64,27.64,0.747
+Equal,D Optimal,Continuous,2,beta_0,2,20,47.18,85.64,27.64,0.922
+Equal,D Optimal,Continuous,2,beta_i,2,20,47.18,85.64,27.64,1
+Equal,D Optimal,Continuous,2,beta_i_beta_j,2,20,47.18,85.64,27.64,1
+Equal,D Optimal,Continuous,2,beta_i^2,2,20,47.18,85.64,27.64,0.938
+Equal,D Optimal,Continuous,3,beta_0,0,32,40.53,62.83,32.93,0.05
+Equal,D Optimal,Continuous,3,beta_i,0,32,40.53,62.83,32.93,0.05
+Equal,D Optimal,Continuous,3,beta_i_beta_j,0,32,40.53,62.83,32.93,0.05
+Equal,D Optimal,Continuous,3,beta_i^2,0,32,40.53,62.83,32.93,0.05
+Equal,D Optimal,Continuous,3,beta_0,0.5,32,40.53,62.83,32.93,0.296
+Equal,D Optimal,Continuous,3,beta_i,0.5,32,40.53,62.83,32.93,0.527
+Equal,D Optimal,Continuous,3,beta_i_beta_j,0.5,32,40.53,62.83,32.93,0.381
+Equal,D Optimal,Continuous,3,beta_i^2,0.5,32,40.53,62.83,32.93,0.249
+Equal,D Optimal,Continuous,3,beta_0,1,32,40.53,62.83,32.93,0.812
+Equal,D Optimal,Continuous,3,beta_i,1,32,40.53,62.83,32.93,0.982
+Equal,D Optimal,Continuous,3,beta_i_beta_j,1,32,40.53,62.83,32.93,0.911
+Equal,D Optimal,Continuous,3,beta_i^2,1,32,40.53,62.83,32.93,0.725
+Equal,D Optimal,Continuous,3,beta_0,1.5,32,40.53,62.83,32.93,0.989
+Equal,D Optimal,Continuous,3,beta_i,1.5,32,40.53,62.83,32.93,1
+Equal,D Optimal,Continuous,3,beta_i_beta_j,1.5,32,40.53,62.83,32.93,0.999
+Equal,D Optimal,Continuous,3,beta_i^2,1.5,32,40.53,62.83,32.93,0.969
+Equal,D Optimal,Continuous,3,beta_0,2,32,40.53,62.83,32.93,1
+Equal,D Optimal,Continuous,3,beta_i,2,32,40.53,62.83,32.93,1
+Equal,D Optimal,Continuous,3,beta_i_beta_j,2,32,40.53,62.83,32.93,1
+Equal,D Optimal,Continuous,3,beta_i^2,2,32,40.53,62.83,32.93,1
+Equal,D Optimal,Continuous,4,beta_0,0,56,48.63,87.26,26.87,0.05
+Equal,D Optimal,Continuous,4,beta_i,0,56,48.63,87.26,26.87,0.05
+Equal,D Optimal,Continuous,4,beta_i_beta_j,0,56,48.63,87.26,26.87,0.05
+Equal,D Optimal,Continuous,4,beta_i^2,0,56,48.63,87.26,26.87,0.05
+Equal,D Optimal,Continuous,4,beta_0,0.5,56,48.63,87.26,26.87,0.166
+Equal,D Optimal,Continuous,4,beta_i,0.5,56,48.63,87.26,26.87,0.908
+Equal,D Optimal,Continuous,4,beta_i_beta_j,0.5,56,48.63,87.26,26.87,0.852
+Equal,D Optimal,Continuous,4,beta_i^2,0.5,56,48.63,87.26,26.87,0.275
+Equal,D Optimal,Continuous,4,beta_0,1,56,48.63,87.26,26.87,0.501
+Equal,D Optimal,Continuous,4,beta_i,1,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i_beta_j,1,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i^2,1,56,48.63,87.26,26.87,0.777
+Equal,D Optimal,Continuous,4,beta_0,1.5,56,48.63,87.26,26.87,0.837
+Equal,D Optimal,Continuous,4,beta_i,1.5,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i_beta_j,1.5,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i^2,1.5,56,48.63,87.26,26.87,0.983
+Equal,D Optimal,Continuous,4,beta_0,2,56,48.63,87.26,26.87,0.975
+Equal,D Optimal,Continuous,4,beta_i,2,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i_beta_j,2,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,4,beta_i^2,2,56,48.63,87.26,26.87,1
+Equal,D Optimal,Continuous,5,beta_0,0,84,50.49,86.75,25.9,0.05
+Equal,D Optimal,Continuous,5,beta_i,0,84,50.49,86.75,25.9,0.05
+Equal,D Optimal,Continuous,5,beta_i_beta_j,0,84,50.49,86.75,25.9,0.05
+Equal,D Optimal,Continuous,5,beta_i^2,0,84,50.49,86.75,25.9,0.05
+Equal,D Optimal,Continuous,5,beta_0,0.5,84,50.49,86.75,25.9,0.165
+Equal,D Optimal,Continuous,5,beta_i,0.5,84,50.49,86.75,25.9,0.985
+Equal,D Optimal,Continuous,5,beta_i_beta_j,0.5,84,50.49,86.75,25.9,0.97
+Equal,D Optimal,Continuous,5,beta_i^2,0.5,84,50.49,86.75,25.9,0.362
+Equal,D Optimal,Continuous,5,beta_0,1,84,50.49,86.75,25.9,0.501
+Equal,D Optimal,Continuous,5,beta_i,1,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i_beta_j,1,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i^2,1,84,50.49,86.75,25.9,0.895
+Equal,D Optimal,Continuous,5,beta_0,1.5,84,50.49,86.75,25.9,0.837
+Equal,D Optimal,Continuous,5,beta_i,1.5,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i_beta_j,1.5,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i^2,1.5,84,50.49,86.75,25.9,0.998
+Equal,D Optimal,Continuous,5,beta_0,2,84,50.49,86.75,25.9,0.975
+Equal,D Optimal,Continuous,5,beta_i,2,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i_beta_j,2,84,50.49,86.75,25.9,1
+Equal,D Optimal,Continuous,5,beta_i^2,2,84,50.49,86.75,25.9,1
+Equal,I Optimal,Continuous,2,beta_0,0,20,43.8,71.83,32.99,0.05
+Equal,I Optimal,Continuous,2,beta_i,0,20,43.8,71.83,32.99,0.05
+Equal,I Optimal,Continuous,2,beta_i_beta_j,0,20,43.8,71.83,32.99,0.05
+Equal,I Optimal,Continuous,2,beta_i^2,0,20,43.8,71.83,32.99,0.05
+Equal,I Optimal,Continuous,2,beta_0,0.5,20,43.8,71.83,32.99,0.218
+Equal,I Optimal,Continuous,2,beta_i,0.5,20,43.8,71.83,32.99,0.335
+Equal,I Optimal,Continuous,2,beta_i_beta_j,0.5,20,43.8,71.83,32.99,0.261
+Equal,I Optimal,Continuous,2,beta_i^2,0.5,20,43.8,71.83,32.99,0.167
+Equal,I Optimal,Continuous,2,beta_0,1,20,43.8,71.83,32.99,0.652
+Equal,I Optimal,Continuous,2,beta_i,1,20,43.8,71.83,32.99,0.864
+Equal,I Optimal,Continuous,2,beta_i_beta_j,1,20,43.8,71.83,32.99,0.749
+Equal,I Optimal,Continuous,2,beta_i^2,1,20,43.8,71.83,32.99,0.505
+Equal,I Optimal,Continuous,2,beta_0,1.5,20,43.8,71.83,32.99,0.941
+Equal,I Optimal,Continuous,2,beta_i,1.5,20,43.8,71.83,32.99,0.996
+Equal,I Optimal,Continuous,2,beta_i_beta_j,1.5,20,43.8,71.83,32.99,0.976
+Equal,I Optimal,Continuous,2,beta_i^2,1.5,20,43.8,71.83,32.99,0.84
+Equal,I Optimal,Continuous,2,beta_0,2,20,43.8,71.83,32.99,0.997
+Equal,I Optimal,Continuous,2,beta_i,2,20,43.8,71.83,32.99,1
+Equal,I Optimal,Continuous,2,beta_i_beta_j,2,20,43.8,71.83,32.99,0.999
+Equal,I Optimal,Continuous,2,beta_i^2,2,20,43.8,71.83,32.99,0.976
+Equal,I Optimal,Continuous,3,beta_0,0,32,40.54,62.84,32.93,0.05
+Equal,I Optimal,Continuous,3,beta_i,0,32,40.54,62.84,32.93,0.05
+Equal,I Optimal,Continuous,3,beta_i_beta_j,0,32,40.54,62.84,32.93,0.05
+Equal,I Optimal,Continuous,3,beta_i^2,0,32,40.54,62.84,32.93,0.05
+Equal,I Optimal,Continuous,3,beta_0,0.5,32,40.54,62.84,32.93,0.296
+Equal,I Optimal,Continuous,3,beta_i,0.5,32,40.54,62.84,32.93,0.527
+Equal,I Optimal,Continuous,3,beta_i_beta_j,0.5,32,40.54,62.84,32.93,0.381
+Equal,I Optimal,Continuous,3,beta_i^2,0.5,32,40.54,62.84,32.93,0.249
+Equal,I Optimal,Continuous,3,beta_0,1,32,40.54,62.84,32.93,0.812
+Equal,I Optimal,Continuous,3,beta_i,1,32,40.54,62.84,32.93,0.982
+Equal,I Optimal,Continuous,3,beta_i_beta_j,1,32,40.54,62.84,32.93,0.911
+Equal,I Optimal,Continuous,3,beta_i^2,1,32,40.54,62.84,32.93,0.725
+Equal,I Optimal,Continuous,3,beta_0,1.5,32,40.54,62.84,32.93,0.989
+Equal,I Optimal,Continuous,3,beta_i,1.5,32,40.54,62.84,32.93,1
+Equal,I Optimal,Continuous,3,beta_i_beta_j,1.5,32,40.54,62.84,32.93,0.999
+Equal,I Optimal,Continuous,3,beta_i^2,1.5,32,40.54,62.84,32.93,0.969
+Equal,I Optimal,Continuous,3,beta_0,2,32,40.54,62.84,32.93,1
+Equal,I Optimal,Continuous,3,beta_i,2,32,40.54,62.84,32.93,1
+Equal,I Optimal,Continuous,3,beta_i_beta_j,2,32,40.54,62.84,32.93,0.999
+Equal,I Optimal,Continuous,3,beta_i^2,2,32,40.54,62.84,32.93,1
+Equal,I Optimal,Continuous,4,beta_0,0,56,42.12,64.05,33.61,0.05
+Equal,I Optimal,Continuous,4,beta_i,0,56,42.12,64.05,33.61,0.05
+Equal,I Optimal,Continuous,4,beta_i_beta_j,0,56,42.12,64.05,33.61,0.05
+Equal,I Optimal,Continuous,4,beta_i^2,0,56,42.12,64.05,33.61,0.05
+Equal,I Optimal,Continuous,4,beta_0,0.5,56,42.12,64.05,33.61,0.408
+Equal,I Optimal,Continuous,4,beta_i,0.5,56,42.12,64.05,33.61,0.811
+Equal,I Optimal,Continuous,4,beta_i_beta_j,0.5,56,42.12,64.05,33.61,0.7
+Equal,I Optimal,Continuous,4,beta_i^2,0.5,56,42.12,64.05,33.61,0.379
+Equal,I Optimal,Continuous,4,beta_0,1,56,42.12,64.05,33.61,0.932
+Equal,I Optimal,Continuous,4,beta_i,1,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i_beta_j,1,56,42.12,64.05,33.61,0.999
+Equal,I Optimal,Continuous,4,beta_i^2,1,56,42.12,64.05,33.61,0.91
+Equal,I Optimal,Continuous,4,beta_0,1.5,56,42.12,64.05,33.61,0.999
+Equal,I Optimal,Continuous,4,beta_i,1.5,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i_beta_j,1.5,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i^2,1.5,56,42.12,64.05,33.61,0.999
+Equal,I Optimal,Continuous,4,beta_0,2,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i,2,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i_beta_j,2,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,4,beta_i^2,2,56,42.12,64.05,33.61,1
+Equal,I Optimal,Continuous,5,beta_0,0,84,43.29,61.71,34.75,0.05
+Equal,I Optimal,Continuous,5,beta_i,0,84,43.29,61.71,34.75,0.05
+Equal,I Optimal,Continuous,5,beta_i_beta_j,0,84,43.29,61.71,34.75,0.05
+Equal,I Optimal,Continuous,5,beta_i^2,0,84,43.29,61.71,34.75,0.05
+Equal,I Optimal,Continuous,5,beta_0,0.5,84,43.29,61.71,34.75,0.5
+Equal,I Optimal,Continuous,5,beta_i,0.5,84,43.29,61.71,34.75,0.951
+Equal,I Optimal,Continuous,5,beta_i_beta_j,0.5,84,43.29,61.71,34.75,0.874
+Equal,I Optimal,Continuous,5,beta_i^2,0.5,84,43.29,61.71,34.75,0.506
+Equal,I Optimal,Continuous,5,beta_0,1,84,43.29,61.71,34.75,0.975
+Equal,I Optimal,Continuous,5,beta_i,1,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i_beta_j,1,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i^2,1,84,43.29,61.71,34.75,0.977
+Equal,I Optimal,Continuous,5,beta_0,1.5,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i,1.5,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i_beta_j,1.5,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i^2,1.5,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_0,2,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i,2,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i_beta_j,2,84,43.29,61.71,34.75,1
+Equal,I Optimal,Continuous,5,beta_i^2,2,84,43.29,61.71,34.75,1
+Equal,A Optimal,Continuous,2,beta_0,0,20,44.78,75.22,33.37,0.05
+Equal,A Optimal,Continuous,2,beta_i,0,20,44.78,75.22,33.37,0.05
+Equal,A Optimal,Continuous,2,beta_i_beta_j,0,20,44.78,75.22,33.37,0.05
+Equal,A Optimal,Continuous,2,beta_i^2,0,20,44.78,75.22,33.37,0.05
+Equal,A Optimal,Continuous,2,beta_0,0.5,20,44.78,75.22,33.37,0.197
+Equal,A Optimal,Continuous,2,beta_i,0.5,20,44.78,75.22,33.37,0.365
+Equal,A Optimal,Continuous,2,beta_i_beta_j,0.5,20,44.78,75.22,33.37,0.261
+Equal,A Optimal,Continuous,2,beta_i^2,0.5,20,44.78,75.22,33.37,0.172
+Equal,A Optimal,Continuous,2,beta_0,1,20,44.78,75.22,33.37,0.596
+Equal,A Optimal,Continuous,2,beta_i,1,20,44.78,75.22,33.37,0.896
+Equal,A Optimal,Continuous,2,beta_i_beta_j,1,20,44.78,75.22,33.37,0.749
+Equal,A Optimal,Continuous,2,beta_i^2,1,20,44.78,75.22,33.37,0.52
+Equal,A Optimal,Continuous,2,beta_0,1.5,20,44.78,75.22,33.37,0.909
+Equal,A Optimal,Continuous,2,beta_i,1.5,20,44.78,75.22,33.37,0.998
+Equal,A Optimal,Continuous,2,beta_i_beta_j,1.5,20,44.78,75.22,33.37,0.976
+Equal,A Optimal,Continuous,2,beta_i^2,1.5,20,44.78,75.22,33.37,0.854
+Equal,A Optimal,Continuous,2,beta_0,2,20,44.78,75.22,33.37,0.992
+Equal,A Optimal,Continuous,2,beta_i,2,20,44.78,75.22,33.37,1
+Equal,A Optimal,Continuous,2,beta_i_beta_j,2,20,44.78,75.22,33.37,0.999
+Equal,A Optimal,Continuous,2,beta_i^2,2,20,44.78,75.22,33.37,0.98
+Equal,A Optimal,Continuous,3,beta_0,0,32,41.73,62.93,33,0.05
+Equal,A Optimal,Continuous,3,beta_i,0,32,41.73,62.93,33,0.05
+Equal,A Optimal,Continuous,3,beta_i_beta_j,0,32,41.73,62.93,33,0.05
+Equal,A Optimal,Continuous,3,beta_i^2,0,32,41.73,62.93,33,0.05
+Equal,A Optimal,Continuous,3,beta_0,0.5,32,41.73,62.93,33,0.27
+Equal,A Optimal,Continuous,3,beta_i,0.5,32,41.73,62.93,33,0.543
+Equal,A Optimal,Continuous,3,beta_i_beta_j,0.5,32,41.73,62.93,33,0.4
+Equal,A Optimal,Continuous,3,beta_i^2,0.5,32,41.73,62.93,33,0.246
+Equal,A Optimal,Continuous,3,beta_0,1,32,41.73,62.93,33,0.767
+Equal,A Optimal,Continuous,3,beta_i,1,32,41.73,62.93,33,0.985
+Equal,A Optimal,Continuous,3,beta_i_beta_j,1,32,41.73,62.93,33,0.926
+Equal,A Optimal,Continuous,3,beta_i^2,1,32,41.73,62.93,33,0.72
+Equal,A Optimal,Continuous,3,beta_0,1.5,32,41.73,62.93,33,0.981
+Equal,A Optimal,Continuous,3,beta_i,1.5,32,41.73,62.93,33,1
+Equal,A Optimal,Continuous,3,beta_i_beta_j,1.5,32,41.73,62.93,33,0.999
+Equal,A Optimal,Continuous,3,beta_i^2,1.5,32,41.73,62.93,33,0.968
+Equal,A Optimal,Continuous,3,beta_0,2,32,41.73,62.93,33,1
+Equal,A Optimal,Continuous,3,beta_i,2,32,41.73,62.93,33,1
+Equal,A Optimal,Continuous,3,beta_i_beta_j,2,32,41.73,62.93,33,1
+Equal,A Optimal,Continuous,3,beta_i^2,2,32,41.73,62.93,33,0.999
+Equal,A Optimal,Continuous,4,beta_0,0,56,43.31,63.17,33.99,0.05
+Equal,A Optimal,Continuous,4,beta_i,0,56,43.31,63.17,33.99,0.05
+Equal,A Optimal,Continuous,4,beta_i_beta_j,0,56,43.31,63.17,33.99,0.05
+Equal,A Optimal,Continuous,4,beta_i^2,0,56,43.31,63.17,33.99,0.05
+Equal,A Optimal,Continuous,4,beta_0,0.5,56,43.31,63.17,33.99,0.353
+Equal,A Optimal,Continuous,4,beta_i,0.5,56,43.31,63.17,33.99,0.829
+Equal,A Optimal,Continuous,4,beta_i_beta_j,0.5,56,43.31,63.17,33.99,0.7
+Equal,A Optimal,Continuous,4,beta_i^2,0.5,56,43.31,63.17,33.99,0.378
+Equal,A Optimal,Continuous,4,beta_0,1,56,43.31,63.17,33.99,0.889
+Equal,A Optimal,Continuous,4,beta_i,1,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i_beta_j,1,56,43.31,63.17,33.99,0.999
+Equal,A Optimal,Continuous,4,beta_i^2,1,56,43.31,63.17,33.99,0.909
+Equal,A Optimal,Continuous,4,beta_0,1.5,56,43.31,63.17,33.99,0.997
+Equal,A Optimal,Continuous,4,beta_i,1.5,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i_beta_j,1.5,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i^2,1.5,56,43.31,63.17,33.99,0.999
+Equal,A Optimal,Continuous,4,beta_0,2,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i,2,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i_beta_j,2,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,4,beta_i^2,2,56,43.31,63.17,33.99,1
+Equal,A Optimal,Continuous,5,beta_0,0,84,44.29,64.46,35.05,0.05
+Equal,A Optimal,Continuous,5,beta_i,0,84,44.29,64.46,35.05,0.05
+Equal,A Optimal,Continuous,5,beta_i_beta_j,0,84,44.29,64.46,35.05,0.05
+Equal,A Optimal,Continuous,5,beta_i^2,0,84,44.29,64.46,35.05,0.05
+Equal,A Optimal,Continuous,5,beta_0,0.5,84,44.29,64.46,35.05,0.419
+Equal,A Optimal,Continuous,5,beta_i,0.5,84,44.29,64.46,35.05,0.956
+Equal,A Optimal,Continuous,5,beta_i_beta_j,0.5,84,44.29,64.46,35.05,0.88
+Equal,A Optimal,Continuous,5,beta_i^2,0.5,84,44.29,64.46,35.05,0.522
+Equal,A Optimal,Continuous,5,beta_0,1,84,44.29,64.46,35.05,0.939
+Equal,A Optimal,Continuous,5,beta_i,1,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i_beta_j,1,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i^2,1,84,44.29,64.46,35.05,0.981
+Equal,A Optimal,Continuous,5,beta_0,1.5,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i,1.5,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i_beta_j,1.5,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i^2,1.5,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_0,2,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i,2,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i_beta_j,2,84,44.29,64.46,35.05,1
+Equal,A Optimal,Continuous,5,beta_i^2,2,84,44.29,64.46,35.05,1
+Equal,Alias Optimal,Continuous,2,beta_0,0,20,47.17,85.67,27.64,0.05
+Equal,Alias Optimal,Continuous,2,beta_i,0,20,47.17,85.67,27.64,0.05
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,0,20,47.17,85.67,27.64,0.05
+Equal,Alias Optimal,Continuous,2,beta_i^2,0,20,47.17,85.67,27.64,0.05
+Equal,Alias Optimal,Continuous,2,beta_0,0.5,20,47.17,85.67,27.64,0.136
+Equal,Alias Optimal,Continuous,2,beta_i,0.5,20,47.17,85.67,27.64,0.432
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,0.5,20,47.17,85.67,27.64,0.365
+Equal,Alias Optimal,Continuous,2,beta_i^2,0.5,20,47.17,85.67,27.64,0.142
+Equal,Alias Optimal,Continuous,2,beta_0,1,20,47.17,85.67,27.64,0.395
+Equal,Alias Optimal,Continuous,2,beta_i,1,20,47.17,85.67,27.64,0.946
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,1,20,47.17,85.67,27.64,0.896
+Equal,Alias Optimal,Continuous,2,beta_i^2,1,20,47.17,85.67,27.64,0.419
+Equal,Alias Optimal,Continuous,2,beta_0,1.5,20,47.17,85.67,27.64,0.718
+Equal,Alias Optimal,Continuous,2,beta_i,1.5,20,47.17,85.67,27.64,1
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,1.5,20,47.17,85.67,27.64,0.998
+Equal,Alias Optimal,Continuous,2,beta_i^2,1.5,20,47.17,85.67,27.64,0.748
+Equal,Alias Optimal,Continuous,2,beta_0,2,20,47.17,85.67,27.64,0.922
+Equal,Alias Optimal,Continuous,2,beta_i,2,20,47.17,85.67,27.64,1
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,2,20,47.17,85.67,27.64,1
+Equal,Alias Optimal,Continuous,2,beta_i^2,2,20,47.17,85.67,27.64,0.938
+Equal,Alias Optimal,Continuous,3,beta_0,0,32,47.11,91,26.35,0.05
+Equal,Alias Optimal,Continuous,3,beta_i,0,32,47.11,91,26.35,0.05
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,0,32,47.11,91,26.35,0.05
+Equal,Alias Optimal,Continuous,3,beta_i^2,0,32,47.11,91,26.35,0.05
+Equal,Alias Optimal,Continuous,3,beta_0,0.5,32,47.11,91,26.35,0.134
+Equal,Alias Optimal,Continuous,3,beta_i,0.5,32,47.11,91,26.35,0.681
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,0.5,32,47.11,91,26.35,0.566
+Equal,Alias Optimal,Continuous,3,beta_i^2,0.5,32,47.11,91,26.35,0.179
+Equal,Alias Optimal,Continuous,3,beta_0,1,32,47.11,91,26.35,0.39
+Equal,Alias Optimal,Continuous,3,beta_i,1,32,47.11,91,26.35,0.998
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,1,32,47.11,91,26.35,0.989
+Equal,Alias Optimal,Continuous,3,beta_i^2,1,32,47.11,91,26.35,0.544
+Equal,Alias Optimal,Continuous,3,beta_0,1.5,32,47.11,91,26.35,0.712
+Equal,Alias Optimal,Continuous,3,beta_i,1.5,32,47.11,91,26.35,1
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,1.5,32,47.11,91,26.35,1
+Equal,Alias Optimal,Continuous,3,beta_i^2,1.5,32,47.11,91,26.35,0.873
+Equal,Alias Optimal,Continuous,3,beta_0,2,32,47.11,91,26.35,0.919
+Equal,Alias Optimal,Continuous,3,beta_i,2,32,47.11,91,26.35,1
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,2,32,47.11,91,26.35,1
+Equal,Alias Optimal,Continuous,3,beta_i^2,2,32,47.11,91,26.35,0.985
+Equal,Alias Optimal,Continuous,4,beta_0,0,56,48.59,87.25,26.88,0.05
+Equal,Alias Optimal,Continuous,4,beta_i,0,56,48.59,87.25,26.88,0.05
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,0,56,48.59,87.25,26.88,0.05
+Equal,Alias Optimal,Continuous,4,beta_i^2,0,56,48.59,87.25,26.88,0.05
+Equal,Alias Optimal,Continuous,4,beta_0,0.5,56,48.59,87.25,26.88,0.166
+Equal,Alias Optimal,Continuous,4,beta_i,0.5,56,48.59,87.25,26.88,0.909
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,0.5,56,48.59,87.25,26.88,0.86
+Equal,Alias Optimal,Continuous,4,beta_i^2,0.5,56,48.59,87.25,26.88,0.275
+Equal,Alias Optimal,Continuous,4,beta_0,1,56,48.59,87.25,26.88,0.503
+Equal,Alias Optimal,Continuous,4,beta_i,1,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,1,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i^2,1,56,48.59,87.25,26.88,0.777
+Equal,Alias Optimal,Continuous,4,beta_0,1.5,56,48.59,87.25,26.88,0.839
+Equal,Alias Optimal,Continuous,4,beta_i,1.5,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,1.5,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i^2,1.5,56,48.59,87.25,26.88,0.983
+Equal,Alias Optimal,Continuous,4,beta_0,2,56,48.59,87.25,26.88,0.979
+Equal,Alias Optimal,Continuous,4,beta_i,2,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,2,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,4,beta_i^2,2,56,48.59,87.25,26.88,1
+Equal,Alias Optimal,Continuous,5,beta_0,0,84,50.39,88.23,25.17,0.05
+Equal,Alias Optimal,Continuous,5,beta_i,0,84,50.39,88.23,25.17,0.05
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,0,84,50.39,88.23,25.17,0.05
+Equal,Alias Optimal,Continuous,5,beta_i^2,0,84,50.39,88.23,25.17,0.05
+Equal,Alias Optimal,Continuous,5,beta_0,0.5,84,50.39,88.23,25.17,0.165
+Equal,Alias Optimal,Continuous,5,beta_i,0.5,84,50.39,88.23,25.17,0.986
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,0.5,84,50.39,88.23,25.17,0.973
+Equal,Alias Optimal,Continuous,5,beta_i^2,0.5,84,50.39,88.23,25.17,0.336
+Equal,Alias Optimal,Continuous,5,beta_0,1,84,50.39,88.23,25.17,0.5
+Equal,Alias Optimal,Continuous,5,beta_i,1,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,1,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i^2,1,84,50.39,88.23,25.17,0.866
+Equal,Alias Optimal,Continuous,5,beta_0,1.5,84,50.39,88.23,25.17,0.837
+Equal,Alias Optimal,Continuous,5,beta_i,1.5,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,1.5,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i^2,1.5,84,50.39,88.23,25.17,0.996
+Equal,Alias Optimal,Continuous,5,beta_0,2,84,50.39,88.23,25.17,0.975
+Equal,Alias Optimal,Continuous,5,beta_i,2,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,2,84,50.39,88.23,25.17,1
+Equal,Alias Optimal,Continuous,5,beta_i^2,2,84,50.39,88.23,25.17,1
+Equal,CCD-O,Continuous,2,beta_0,0,20,47.63,78.3,35.24,0.05
+Equal,CCD-O,Continuous,2,beta_i,0,20,47.63,78.3,35.24,0.05
+Equal,CCD-O,Continuous,2,beta_i_beta_j,0,20,47.63,78.3,35.24,0.05
+Equal,CCD-O,Continuous,2,beta_i^2,0,20,47.63,78.3,35.24,0.05
+Equal,CCD-O,Continuous,2,beta_0,0.5,20,47.63,78.3,35.24,0.182
+Equal,CCD-O,Continuous,2,beta_i,0.5,20,47.63,78.3,35.24,0.381
+Equal,CCD-O,Continuous,2,beta_i_beta_j,0.5,20,47.63,78.3,35.24,0.261
+Equal,CCD-O,Continuous,2,beta_i^2,0.5,20,47.63,78.3,35.24,0.192
+Equal,CCD-O,Continuous,2,beta_0,1,20,47.63,78.3,35.24,0.552
+Equal,CCD-O,Continuous,2,beta_i,1,20,47.63,78.3,35.24,0.911
+Equal,CCD-O,Continuous,2,beta_i_beta_j,1,20,47.63,78.3,35.24,0.749
+Equal,CCD-O,Continuous,2,beta_i^2,1,20,47.63,78.3,35.24,0.581
+Equal,CCD-O,Continuous,2,beta_0,1.5,20,47.63,78.3,35.24,0.879
+Equal,CCD-O,Continuous,2,beta_i,1.5,20,47.63,78.3,35.24,0.999
+Equal,CCD-O,Continuous,2,beta_i_beta_j,1.5,20,47.63,78.3,35.24,0.976
+Equal,CCD-O,Continuous,2,beta_i^2,1.5,20,47.63,78.3,35.24,0.9
+Equal,CCD-O,Continuous,2,beta_0,2,20,47.63,78.3,35.24,0.986
+Equal,CCD-O,Continuous,2,beta_i,2,20,47.63,78.3,35.24,1
+Equal,CCD-O,Continuous,2,beta_i_beta_j,2,20,47.63,78.3,35.24,0.999
+Equal,CCD-O,Continuous,2,beta_i^2,2,20,47.63,78.3,35.24,0.991
+Equal,CCD-O,Continuous,3,beta_0,0,32,53.11,83.38,41.06,0.05
+Equal,CCD-O,Continuous,3,beta_i,0,32,53.11,83.38,41.06,0.05
+Equal,CCD-O,Continuous,3,beta_i_beta_j,0,32,53.11,83.38,41.06,0.05
+Equal,CCD-O,Continuous,3,beta_i^2,0,32,53.11,83.38,41.06,0.05
+Equal,CCD-O,Continuous,3,beta_0,0.5,32,53.11,83.38,41.06,0.215
+Equal,CCD-O,Continuous,3,beta_i,0.5,32,53.11,83.38,41.06,0.623
+Equal,CCD-O,Continuous,3,beta_i_beta_j,0.5,32,53.11,83.38,41.06,0.481
+Equal,CCD-O,Continuous,3,beta_i^2,0.5,32,53.11,83.38,41.06,0.354
+Equal,CCD-O,Continuous,3,beta_0,1,32,53.11,83.38,41.06,0.646
+Equal,CCD-O,Continuous,3,beta_i,1,32,53.11,83.38,41.06,0.995
+Equal,CCD-O,Continuous,3,beta_i_beta_j,1,32,53.11,83.38,41.06,0.969
+Equal,CCD-O,Continuous,3,beta_i^2,1,32,53.11,83.38,41.06,0.886
+Equal,CCD-O,Continuous,3,beta_0,1.5,32,53.11,83.38,41.06,0.938
+Equal,CCD-O,Continuous,3,beta_i,1.5,32,53.11,83.38,41.06,1
+Equal,CCD-O,Continuous,3,beta_i_beta_j,1.5,32,53.11,83.38,41.06,1
+Equal,CCD-O,Continuous,3,beta_i^2,1.5,32,53.11,83.38,41.06,0.997
+Equal,CCD-O,Continuous,3,beta_0,2,32,53.11,83.38,41.06,0.997
+Equal,CCD-O,Continuous,3,beta_i,2,32,53.11,83.38,41.06,1
+Equal,CCD-O,Continuous,3,beta_i_beta_j,2,32,53.11,83.38,41.06,1
+Equal,CCD-O,Continuous,3,beta_i^2,2,32,53.11,83.38,41.06,1
+Equal,CCD-O,Continuous,4,beta_0,0,56,60.89,86.74,50.03,0.05
+Equal,CCD-O,Continuous,4,beta_i,0,56,60.89,86.74,50.03,0.05
+Equal,CCD-O,Continuous,4,beta_i_beta_j,0,56,60.89,86.74,50.03,0.05
+Equal,CCD-O,Continuous,4,beta_i^2,0,56,60.89,86.74,50.03,0.05
+Equal,CCD-O,Continuous,4,beta_0,0.5,56,60.89,86.74,50.03,0.329
+Equal,CCD-O,Continuous,4,beta_i,0.5,56,60.89,86.74,50.03,0.888
+Equal,CCD-O,Continuous,4,beta_i_beta_j,0.5,56,60.89,86.74,50.03,0.789
+Equal,CCD-O,Continuous,4,beta_i^2,0.5,56,60.89,86.74,50.03,0.713
+Equal,CCD-O,Continuous,4,beta_0,1,56,60.89,86.74,50.03,0.859
+Equal,CCD-O,Continuous,4,beta_i,1,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i_beta_j,1,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i^2,1,56,60.89,86.74,50.03,0.999
+Equal,CCD-O,Continuous,4,beta_0,1.5,56,60.89,86.74,50.03,0.995
+Equal,CCD-O,Continuous,4,beta_i,1.5,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i_beta_j,1.5,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i^2,1.5,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_0,2,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i,2,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i_beta_j,2,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,4,beta_i^2,2,56,60.89,86.74,50.03,1
+Equal,CCD-O,Continuous,5,beta_0,0,84,60.08,81.58,50.47,0.05
+Equal,CCD-O,Continuous,5,beta_i,0,84,60.08,81.58,50.47,0.05
+Equal,CCD-O,Continuous,5,beta_i_beta_j,0,84,60.08,81.58,50.47,0.05
+Equal,CCD-O,Continuous,5,beta_i^2,0,84,60.08,81.58,50.47,0.05
+Equal,CCD-O,Continuous,5,beta_0,0.5,84,60.08,81.58,50.47,0.4
+Equal,CCD-O,Continuous,5,beta_i,0.5,84,60.08,81.58,50.47,0.975
+Equal,CCD-O,Continuous,5,beta_i_beta_j,0.5,84,60.08,81.58,50.47,0.927
+Equal,CCD-O,Continuous,5,beta_i^2,0.5,84,60.08,81.58,50.47,0.876
+Equal,CCD-O,Continuous,5,beta_0,1,84,60.08,81.58,50.47,0.927
+Equal,CCD-O,Continuous,5,beta_i,1,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i_beta_j,1,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i^2,1,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_0,1.5,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i,1.5,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i_beta_j,1.5,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i^2,1.5,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_0,2,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i,2,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i_beta_j,2,84,60.08,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i^2,2,84,60.08,81.58,50.47,1
+Equal,CCD-R,Continuous,2,beta_0,0,20,63.49,96,41.74,0.05
+Equal,CCD-R,Continuous,2,beta_i,0,20,63.49,96,41.74,0.05
+Equal,CCD-R,Continuous,2,beta_i_beta_j,0,20,63.49,96,41.74,0.05
+Equal,CCD-R,Continuous,2,beta_i^2,0,20,63.49,96,41.74,0.05
+Equal,CCD-R,Continuous,2,beta_0,0.5,20,63.49,96,41.74,0.086
+Equal,CCD-R,Continuous,2,beta_i,0.5,20,63.49,96,41.74,0.195
+Equal,CCD-R,Continuous,2,beta_i_beta_j,0.5,20,63.49,96,41.74,0.122
+Equal,CCD-R,Continuous,2,beta_i^2,0.5,20,63.49,96,41.74,0.133
+Equal,CCD-R,Continuous,2,beta_0,1,20,63.49,96,41.74,0.195
+Equal,CCD-R,Continuous,2,beta_i,1,20,63.49,96,41.74,0.572
+Equal,CCD-R,Continuous,2,beta_i_beta_j,1,20,63.49,96,41.74,0.336
+Equal,CCD-R,Continuous,2,beta_i^2,1,20,63.49,96,41.74,0.374
+Equal,CCD-R,Continuous,2,beta_0,1.5,20,63.49,96,41.74,0.369
+Equal,CCD-R,Continuous,2,beta_i,1.5,20,63.49,96,41.74,0.88
+Equal,CCD-R,Continuous,2,beta_i_beta_j,1.5,20,63.49,96,41.74,0.619
+Equal,CCD-R,Continuous,2,beta_i^2,1.5,20,63.49,96,41.74,0.674
+Equal,CCD-R,Continuous,2,beta_0,2,20,63.49,96,41.74,0.572
+Equal,CCD-R,Continuous,2,beta_i,2,20,63.49,96,41.74,0.984
+Equal,CCD-R,Continuous,2,beta_i_beta_j,2,20,63.49,96,41.74,0.843
+Equal,CCD-R,Continuous,2,beta_i^2,2,20,63.49,96,41.74,0.885
+Equal,CCD-R,Continuous,3,beta_0,0,32,68.99,93.28,44.15,0.05
+Equal,CCD-R,Continuous,3,beta_i,0,32,68.99,93.28,44.15,0.05
+Equal,CCD-R,Continuous,3,beta_i_beta_j,0,32,68.99,93.28,44.15,0.05
+Equal,CCD-R,Continuous,3,beta_i^2,0,32,68.99,93.28,44.15,0.05
+Equal,CCD-R,Continuous,3,beta_0,0.5,32,68.99,93.28,44.15,0.16
+Equal,CCD-R,Continuous,3,beta_i,0.5,32,68.99,93.28,44.15,0.705
+Equal,CCD-R,Continuous,3,beta_i_beta_j,0.5,32,68.99,93.28,44.15,0.481
+Equal,CCD-R,Continuous,3,beta_i^2,0.5,32,68.99,93.28,44.15,0.539
+Equal,CCD-R,Continuous,3,beta_0,1,32,68.99,93.28,44.15,0.483
+Equal,CCD-R,Continuous,3,beta_i,1,32,68.99,93.28,44.15,0.999
+Equal,CCD-R,Continuous,3,beta_i_beta_j,1,32,68.99,93.28,44.15,0.969
+Equal,CCD-R,Continuous,3,beta_i^2,1,32,68.99,93.28,44.15,0.999
+Equal,CCD-R,Continuous,3,beta_0,1.5,32,68.99,93.28,44.15,0.82
+Equal,CCD-R,Continuous,3,beta_i,1.5,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,3,beta_i_beta_j,1.5,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,3,beta_i^2,1.5,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,3,beta_0,2,32,68.99,93.28,44.15,0.969
+Equal,CCD-R,Continuous,3,beta_i,2,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,3,beta_i_beta_j,2,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,3,beta_i^2,2,32,68.99,93.28,44.15,1
+Equal,CCD-R,Continuous,4,beta_0,0,56,74.14,91.83,55.9,0.05
+Equal,CCD-R,Continuous,4,beta_i,0,56,74.14,91.83,55.9,0.05
+Equal,CCD-R,Continuous,4,beta_i_beta_j,0,56,74.14,91.83,55.9,0.05
+Equal,CCD-R,Continuous,4,beta_i^2,0,56,74.14,91.83,55.9,0.05
+Equal,CCD-R,Continuous,4,beta_0,0.5,56,74.14,91.83,55.9,0.282
+Equal,CCD-R,Continuous,4,beta_i,0.5,56,74.14,91.83,55.9,0.992
+Equal,CCD-R,Continuous,4,beta_i_beta_j,0.5,56,74.14,91.83,55.9,0.789
+Equal,CCD-R,Continuous,4,beta_i^2,0.5,56,74.14,91.83,55.9,0.922
+Equal,CCD-R,Continuous,4,beta_0,1,56,74.14,91.83,55.9,0.789
+Equal,CCD-R,Continuous,4,beta_i,1,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i_beta_j,1,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i^2,1,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_0,1.5,56,74.14,91.83,55.9,0.985
+Equal,CCD-R,Continuous,4,beta_i,1.5,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i_beta_j,1.5,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i^2,1.5,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_0,2,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i,2,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i_beta_j,2,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,4,beta_i^2,2,56,74.14,91.83,55.9,1
+Equal,CCD-R,Continuous,5,beta_0,0,84,71.82,85.21,49.83,0.05
+Equal,CCD-R,Continuous,5,beta_i,0,84,71.82,85.21,49.83,0.05
+Equal,CCD-R,Continuous,5,beta_i_beta_j,0,84,71.82,85.21,49.83,0.05
+Equal,CCD-R,Continuous,5,beta_i^2,0,84,71.82,85.21,49.83,0.05
+Equal,CCD-R,Continuous,5,beta_0,0.5,84,71.82,85.21,49.83,0.252
+Equal,CCD-R,Continuous,5,beta_i,0.5,84,71.82,85.21,49.83,0.987
+Equal,CCD-R,Continuous,5,beta_i_beta_j,0.5,84,71.82,85.21,49.83,0.927
+Equal,CCD-R,Continuous,5,beta_i^2,0.5,84,71.82,85.21,49.83,0.976
+Equal,CCD-R,Continuous,5,beta_0,1,84,71.82,85.21,49.83,0.732
+Equal,CCD-R,Continuous,5,beta_i,1,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i_beta_j,1,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i^2,1,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_0,1.5,84,71.82,85.21,49.83,0.972
+Equal,CCD-R,Continuous,5,beta_i,1.5,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i_beta_j,1.5,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i^2,1.5,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_0,2,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i,2,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i_beta_j,2,84,71.82,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i^2,2,84,71.82,85.21,49.83,1
+Equal,BBD,Continuous,3,beta_0,0,32,35.35,45.45,29.41,0.05
+Equal,BBD,Continuous,3,beta_i,0,32,35.35,45.45,29.41,0.05
+Equal,BBD,Continuous,3,beta_i_beta_j,0,32,35.35,45.45,29.41,0.05
+Equal,BBD,Continuous,3,beta_i^2,0,32,35.35,45.45,29.41,0.05
+Equal,BBD,Continuous,3,beta_0,0.5,32,35.35,45.45,29.41,0.272
+Equal,BBD,Continuous,3,beta_i,0.5,32,35.35,45.45,29.41,0.481
+Equal,BBD,Continuous,3,beta_i_beta_j,0.5,32,35.35,45.45,29.41,0.272
+Equal,BBD,Continuous,3,beta_i^2,0.5,32,35.35,45.45,29.41,0.272
+Equal,BBD,Continuous,3,beta_0,1,32,35.35,45.45,29.41,0.771
+Equal,BBD,Continuous,3,beta_i,1,32,35.35,45.45,29.41,0.969
+Equal,BBD,Continuous,3,beta_i_beta_j,1,32,35.35,45.45,29.41,0.771
+Equal,BBD,Continuous,3,beta_i^2,1,32,35.35,45.45,29.41,0.771
+Equal,BBD,Continuous,3,beta_0,1.5,32,35.35,45.45,29.41,0.982
+Equal,BBD,Continuous,3,beta_i,1.5,32,35.35,45.45,29.41,1
+Equal,BBD,Continuous,3,beta_i_beta_j,1.5,32,35.35,45.45,29.41,0.982
+Equal,BBD,Continuous,3,beta_i^2,1.5,32,35.35,45.45,29.41,0.982
+Equal,BBD,Continuous,3,beta_0,2,32,35.35,45.45,29.41,1
+Equal,BBD,Continuous,3,beta_i,2,32,35.35,45.45,29.41,1
+Equal,BBD,Continuous,3,beta_i_beta_j,2,32,35.35,45.45,29.41,1
+Equal,BBD,Continuous,3,beta_i^2,2,32,35.35,45.45,29.41,1
+Equal,BBD,Continuous,4,beta_0,0,56,24.79,23.81,19.48,0.05
+Equal,BBD,Continuous,4,beta_i,0,56,24.79,23.81,19.48,0.05
+Equal,BBD,Continuous,4,beta_i_beta_j,0,56,24.79,23.81,19.48,0.05
+Equal,BBD,Continuous,4,beta_i^2,0,56,24.79,23.81,19.48,0.05
+Equal,BBD,Continuous,4,beta_0,0.5,56,24.79,23.81,19.48,0.282
+Equal,BBD,Continuous,4,beta_i,0.5,56,24.79,23.81,19.48,0.667
+Equal,BBD,Continuous,4,beta_i_beta_j,0.5,56,24.79,23.81,19.48,0.282
+Equal,BBD,Continuous,4,beta_i^2,0.5,56,24.79,23.81,19.48,0.394
+Equal,BBD,Continuous,4,beta_0,1,56,24.79,23.81,19.48,0.789
+Equal,BBD,Continuous,4,beta_i,1,56,24.79,23.81,19.48,0.998
+Equal,BBD,Continuous,4,beta_i_beta_j,1,56,24.79,23.81,19.48,0.789
+Equal,BBD,Continuous,4,beta_i^2,1,56,24.79,23.81,19.48,0.922
+Equal,BBD,Continuous,4,beta_0,1.5,56,24.79,23.81,19.48,0.985
+Equal,BBD,Continuous,4,beta_i,1.5,56,24.79,23.81,19.48,1
+Equal,BBD,Continuous,4,beta_i_beta_j,1.5,56,24.79,23.81,19.48,0.985
+Equal,BBD,Continuous,4,beta_i^2,1.5,56,24.79,23.81,19.48,0.999
+Equal,BBD,Continuous,4,beta_0,2,56,24.79,23.81,19.48,1
+Equal,BBD,Continuous,4,beta_i,2,56,24.79,23.81,19.48,1
+Equal,BBD,Continuous,4,beta_i_beta_j,2,56,24.79,23.81,19.48,1
+Equal,BBD,Continuous,4,beta_i^2,2,56,24.79,23.81,19.48,1
+Equal,BBD,Continuous,5,beta_0,0,84,17.44,12.21,11.62,0.05
+Equal,BBD,Continuous,5,beta_i,0,84,17.44,12.21,11.62,0.05
+Equal,BBD,Continuous,5,beta_i_beta_j,0,84,17.44,12.21,11.62,0.05
+Equal,BBD,Continuous,5,beta_i^2,0,84,17.44,12.21,11.62,0.05
+Equal,BBD,Continuous,5,beta_0,0.5,84,17.44,12.21,11.62,0.166
+Equal,BBD,Continuous,5,beta_i,0.5,84,17.44,12.21,11.62,0.795
+Equal,BBD,Continuous,5,beta_i_beta_j,0.5,84,17.44,12.21,11.62,0.286
+Equal,BBD,Continuous,5,beta_i^2,0.5,84,17.44,12.21,11.62,0.347
+Equal,BBD,Continuous,5,beta_0,1,84,17.44,12.21,11.62,0.504
+Equal,BBD,Continuous,5,beta_i,1,84,17.44,12.21,11.62,1
+Equal,BBD,Continuous,5,beta_i_beta_j,1,84,17.44,12.21,11.62,0.795
+Equal,BBD,Continuous,5,beta_i^2,1,84,17.44,12.21,11.62,0.879
+Equal,BBD,Continuous,5,beta_0,1.5,84,17.44,12.21,11.62,0.84
+Equal,BBD,Continuous,5,beta_i,1.5,84,17.44,12.21,11.62,1
+Equal,BBD,Continuous,5,beta_i_beta_j,1.5,84,17.44,12.21,11.62,0.987
+Equal,BBD,Continuous,5,beta_i^2,1.5,84,17.44,12.21,11.62,0.997
+Equal,BBD,Continuous,5,beta_0,2,84,17.44,12.21,11.62,0.976
+Equal,BBD,Continuous,5,beta_i,2,84,17.44,12.21,11.62,1
+Equal,BBD,Continuous,5,beta_i_beta_j,2,84,17.44,12.21,11.62,1
+Equal,BBD,Continuous,5,beta_i^2,2,84,17.44,12.21,11.62,1
+Recommended,D Optimal,Continuous,2,beta_0,0.25,12,46.58,64.59,27.18,0.06
+Recommended,D Optimal,Continuous,2,beta_i,0.25,12,46.58,64.59,27.18,0.095
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,0.25,12,46.58,64.59,27.18,0.085
+Recommended,D Optimal,Continuous,2,beta_i^2,0.25,12,46.58,64.59,27.18,0.061
+Recommended,D Optimal,Continuous,2,beta_0,0.75,12,46.58,64.59,27.18,0.14
+Recommended,D Optimal,Continuous,2,beta_i,0.75,12,46.58,64.59,27.18,0.453
+Recommended,D Optimal,Continuous,2,beta_i_beta_j,0.75,12,46.58,64.59,27.18,0.367
+Recommended,D Optimal,Continuous,2,beta_i^2,0.75,12,46.58,64.59,27.18,0.155
+Recommended,I Optimal,Continuous,2,beta_0,0.25,12,40.82,63.16,32.43,0.075
+Recommended,I Optimal,Continuous,2,beta_i,0.25,12,40.82,63.16,32.43,0.082
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,0.25,12,40.82,63.16,32.43,0.071
+Recommended,I Optimal,Continuous,2,beta_i^2,0.25,12,40.82,63.16,32.43,0.064
+Recommended,I Optimal,Continuous,2,beta_0,0.75,12,40.82,63.16,32.43,0.284
+Recommended,I Optimal,Continuous,2,beta_i,0.75,12,40.82,63.16,32.43,0.34
+Recommended,I Optimal,Continuous,2,beta_i_beta_j,0.75,12,40.82,63.16,32.43,0.245
+Recommended,I Optimal,Continuous,2,beta_i^2,0.75,12,40.82,63.16,32.43,0.179
+Recommended,A Optimal,Continuous,2,beta_0,0.25,12,42.06,62.49,32.76,0.07
+Recommended,A Optimal,Continuous,2,beta_i,0.25,12,42.06,62.49,32.76,0.082
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,0.25,12,42.06,62.49,32.76,0.071
+Recommended,A Optimal,Continuous,2,beta_i^2,0.25,12,42.06,62.49,32.76,0.065
+Recommended,A Optimal,Continuous,2,beta_0,0.75,12,42.06,62.49,32.76,0.24
+Recommended,A Optimal,Continuous,2,beta_i,0.75,12,42.06,62.49,32.76,0.34
+Recommended,A Optimal,Continuous,2,beta_i_beta_j,0.75,12,42.06,62.49,32.76,0.245
+Recommended,A Optimal,Continuous,2,beta_i^2,0.75,12,42.06,62.49,32.76,0.19
+Recommended,Alias Optimal,Continuous,2,beta_0,0.25,12,46.57,65.33,27.12,0.06
+Recommended,Alias Optimal,Continuous,2,beta_i,0.25,12,46.57,65.33,27.12,0.095
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,0.25,12,46.57,65.33,27.12,0.085
+Recommended,Alias Optimal,Continuous,2,beta_i^2,0.25,12,46.57,65.33,27.12,0.062
+Recommended,Alias Optimal,Continuous,2,beta_0,0.75,12,46.57,65.33,27.12,0.139
+Recommended,Alias Optimal,Continuous,2,beta_i,0.75,12,46.57,65.33,27.12,0.455
+Recommended,Alias Optimal,Continuous,2,beta_i_beta_j,0.75,12,46.57,65.33,27.12,0.368
+Recommended,Alias Optimal,Continuous,2,beta_i^2,0.75,12,46.57,65.33,27.12,0.157
+Recommended,CCD-R,Continuous,2,beta_0,0.25,10,63.49,96,41.74,0.059
+Recommended,CCD-R,Continuous,2,beta_i,0.25,10,63.49,96,41.74,0.086
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,0.25,10,63.49,96,41.74,0.07
+Recommended,CCD-R,Continuous,2,beta_i^2,0.25,10,63.49,96,41.74,0.068
+Recommended,CCD-R,Continuous,2,beta_0,0.75,10,63.49,96,41.74,0.131
+Recommended,CCD-R,Continuous,2,beta_i,0.75,10,63.49,96,41.74,0.369
+Recommended,CCD-R,Continuous,2,beta_i_beta_j,0.75,10,63.49,96,41.74,0.213
+Recommended,CCD-R,Continuous,2,beta_i^2,0.75,10,63.49,96,41.74,0.236
+Recommended,CCD-O,Continuous,2,beta_0,0.25,10,47.63,78.31,35.24,0.061
+Recommended,CCD-O,Continuous,2,beta_i,0.25,10,47.63,78.31,35.24,0.078
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,0.25,10,47.63,78.31,35.24,0.068
+Recommended,CCD-O,Continuous,2,beta_i^2,0.25,10,47.63,78.31,35.24,0.062
+Recommended,CCD-O,Continuous,2,beta_0,0.75,10,47.63,78.31,35.24,0.153
+Recommended,CCD-O,Continuous,2,beta_i,0.75,10,47.63,78.31,35.24,0.306
+Recommended,CCD-O,Continuous,2,beta_i_beta_j,0.75,10,47.63,78.31,35.24,0.213
+Recommended,CCD-O,Continuous,2,beta_i^2,0.75,10,47.63,78.31,35.24,0.16
+Equal,D Optimal,Continuous,2,beta_0,0.25,20,47.18,85.83,27.65,0.071
+Equal,D Optimal,Continuous,2,beta_i,0.25,20,47.18,85.83,27.65,0.146
+Equal,D Optimal,Continuous,2,beta_i_beta_j,0.25,20,47.18,85.83,27.65,0.127
+Equal,D Optimal,Continuous,2,beta_i^2,0.25,20,47.18,85.83,27.65,0.072
+Equal,D Optimal,Continuous,2,beta_0,0.75,20,47.18,85.83,27.65,0.246
+Equal,D Optimal,Continuous,2,beta_i,0.75,20,47.18,85.83,27.65,0.764
+Equal,D Optimal,Continuous,2,beta_i_beta_j,0.75,20,47.18,85.83,27.65,0.26
+Equal,D Optimal,Continuous,2,beta_i^2,0.75,20,47.18,85.83,27.65,0.676
+Equal,I Optimal,Continuous,2,beta_0,0.25,20,43.79,71.78,32.99,0.091
+Equal,I Optimal,Continuous,2,beta_i,0.25,20,43.79,71.78,32.99,0.12
+Equal,I Optimal,Continuous,2,beta_i_beta_j,0.25,20,43.79,71.78,32.99,0.101
+Equal,I Optimal,Continuous,2,beta_i^2,0.25,20,43.79,71.78,32.99,0.078
+Equal,I Optimal,Continuous,2,beta_0,0.75,20,43.79,71.78,32.99,0.423
+Equal,I Optimal,Continuous,2,beta_i,0.75,20,43.79,71.78,32.99,0.632
+Equal,I Optimal,Continuous,2,beta_i_beta_j,0.75,20,43.79,71.78,32.99,0.506
+Equal,I Optimal,Continuous,2,beta_i^2,0.75,20,43.79,71.78,32.99,0.316
+Equal,A Optimal,Continuous,2,beta_0,0.25,20,44.78,75.22,33.37,0.086
+Equal,A Optimal,Continuous,2,beta_i,0.25,20,44.78,75.22,33.37,0.127
+Equal,A Optimal,Continuous,2,beta_i_beta_j,0.25,20,44.78,75.22,33.37,0.101
+Equal,A Optimal,Continuous,2,beta_i^2,0.25,20,44.78,75.22,33.37,0.08
+Equal,A Optimal,Continuous,2,beta_0,0.75,20,44.78,75.22,33.37,0.371
+Equal,A Optimal,Continuous,2,beta_i,0.75,20,44.78,75.22,33.37,0.676
+Equal,A Optimal,Continuous,2,beta_i_beta_j,0.75,20,44.78,75.22,33.37,0.506
+Equal,A Optimal,Continuous,2,beta_i^2,0.75,20,44.78,75.22,33.37,0.327
+Equal,Alias Optimal,Continuous,2,beta_0,0.25,20,47.17,85.67,27.64,0.071
+Equal,Alias Optimal,Continuous,2,beta_i,0.25,20,47.17,85.67,27.64,0.146
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,0.25,20,47.17,85.67,27.64,0.127
+Equal,Alias Optimal,Continuous,2,beta_i^2,0.25,20,47.17,85.67,27.64,0.072
+Equal,Alias Optimal,Continuous,2,beta_0,0.75,20,47.17,85.67,27.64,0.246
+Equal,Alias Optimal,Continuous,2,beta_i,0.75,20,47.17,85.67,27.64,0.764
+Equal,Alias Optimal,Continuous,2,beta_i_beta_j,0.75,20,47.17,85.67,27.64,0.676
+Equal,Alias Optimal,Continuous,2,beta_i^2,0.75,20,47.17,85.67,27.64,0.26
+Equal,CCD-R,Continuous,2,beta_0,0.25,20,63.5,96,41.73,0.075
+Equal,CCD-R,Continuous,2,beta_i,0.25,20,63.5,96,41.73,0.154
+Equal,CCD-R,Continuous,2,beta_i_beta_j,0.25,20,63.5,96,41.73,0.101
+Equal,CCD-R,Continuous,2,beta_i^2,0.25,20,63.5,96,41.73,0.109
+Equal,CCD-R,Continuous,2,beta_0,0.75,20,63.5,96,41.73,0.287
+Equal,CCD-R,Continuous,2,beta_i,0.75,20,63.5,96,41.73,0.797
+Equal,CCD-R,Continuous,2,beta_i_beta_j,0.75,20,63.5,96,41.73,0.506
+Equal,CCD-R,Continuous,2,beta_i^2,0.75,20,63.5,96,41.73,0.56
+Equal,CCD-O,Continuous,2,beta_0,0.25,20,47.63,78.31,35.24,0.082
+Equal,CCD-O,Continuous,2,beta_i,0.25,20,47.63,78.31,35.24,0.132
+Equal,CCD-O,Continuous,2,beta_i_beta_j,0.25,20,47.63,78.31,35.24,0.101
+Equal,CCD-O,Continuous,2,beta_i^2,0.25,20,47.63,78.31,35.24,0.084
+Equal,CCD-O,Continuous,2,beta_0,0.75,20,47.63,78.31,35.24,0.349
+Equal,CCD-O,Continuous,2,beta_i,0.75,20,47.63,78.31,35.24,0.699
+Equal,CCD-O,Continuous,2,beta_i_beta_j,0.75,20,47.63,78.31,35.24,0.506
+Equal,CCD-O,Continuous,2,beta_i^2,0.75,20,47.63,78.31,35.24,0.369
+Recommended,D Optimal,Continuous,3,beta_0,0.25,16,45.85,73.33,26.36,0.058
+Recommended,D Optimal,Continuous,3,beta_i,0.25,16,45.85,73.33,26.36,0.112
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,0.25,16,45.85,73.33,26.36,0.101
+Recommended,D Optimal,Continuous,3,beta_i^2,0.25,16,45.85,73.33,26.36,0.062
+Recommended,D Optimal,Continuous,3,beta_0,0.75,16,45.85,73.33,26.36,0.124
+Recommended,D Optimal,Continuous,3,beta_i,0.75,16,45.85,73.33,26.36,0.562
+Recommended,D Optimal,Continuous,3,beta_i_beta_j,0.75,16,45.85,73.33,26.36,0.499
+Recommended,D Optimal,Continuous,3,beta_i^2,0.75,16,45.85,73.33,26.36,0.19
+Recommended,I Optimal,Continuous,3,beta_0,0.25,16,42.99,78.55,30.68,0.073
+Recommended,I Optimal,Continuous,3,beta_i,0.25,16,42.99,78.55,30.68,0.103
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,0.25,16,42.99,78.55,30.68,0.092
+Recommended,I Optimal,Continuous,3,beta_i^2,0.25,16,42.99,78.55,30.68,0.064
+Recommended,I Optimal,Continuous,3,beta_0,0.75,16,42.99,78.55,30.68,0.267
+Recommended,I Optimal,Continuous,3,beta_i,0.75,16,42.99,78.55,30.68,0.512
+Recommended,I Optimal,Continuous,3,beta_i_beta_j,0.75,16,42.99,78.55,30.68,0.43
+Recommended,I Optimal,Continuous,3,beta_i^2,0.75,16,42.99,78.55,30.68,0.178
+Recommended,A Optimal,Continuous,3,beta_0,0.25,16,44.51,79.36,31.64,0.066
+Recommended,A Optimal,Continuous,3,beta_i,0.25,16,44.51,79.36,31.64,0.107
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,0.25,16,44.51,79.36,31.64,0.092
+Recommended,A Optimal,Continuous,3,beta_i^2,0.25,16,44.51,79.36,31.64,0.066
+Recommended,A Optimal,Continuous,3,beta_0,0.75,16,44.51,79.36,31.64,0.198
+Recommended,A Optimal,Continuous,3,beta_i,0.75,16,44.51,79.36,31.64,0.537
+Recommended,A Optimal,Continuous,3,beta_i_beta_j,0.75,16,44.51,79.36,31.64,0.43
+Recommended,A Optimal,Continuous,3,beta_i^2,0.75,16,44.51,79.36,31.64,0.198
+Recommended,Alias Optimal,Continuous,3,beta_0,0.25,16,45.81,72.66,25.19,0.058
+Recommended,Alias Optimal,Continuous,3,beta_i,0.25,16,45.81,72.66,25.19,0.115
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,0.25,16,45.81,72.66,25.19,0.099
+Recommended,Alias Optimal,Continuous,3,beta_i^2,0.25,16,45.81,72.66,25.19,0.062
+Recommended,Alias Optimal,Continuous,3,beta_0,0.75,16,45.81,72.66,25.19,0.122
+Recommended,Alias Optimal,Continuous,3,beta_i,0.75,16,45.81,72.66,25.19,0.592
+Recommended,Alias Optimal,Continuous,3,beta_i_beta_j,0.75,16,45.81,72.66,25.19,0.481
+Recommended,Alias Optimal,Continuous,3,beta_i^2,0.75,16,45.81,72.66,25.19,0.157
+Recommended,CCD-R,Continuous,3,beta_0,0.25,16,68.99,93.29,44.15,0.06
+Recommended,CCD-R,Continuous,3,beta_i,0.25,16,68.99,93.29,44.15,0.123
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,0.25,16,68.99,93.29,44.15,0.092
+Recommended,CCD-R,Continuous,3,beta_i^2,0.25,16,68.99,93.29,44.15,0.099
+Recommended,CCD-R,Continuous,3,beta_0,0.75,16,68.99,93.29,44.15,0.147
+Recommended,CCD-R,Continuous,3,beta_i,0.75,16,68.99,93.29,44.15,0.64
+Recommended,CCD-R,Continuous,3,beta_i_beta_j,0.75,16,68.99,93.29,44.15,0.43
+Recommended,CCD-R,Continuous,3,beta_i^2,0.75,16,68.99,93.29,44.15,0.483
+Recommended,CCD-O,Continuous,3,beta_0,0.25,16,53.11,83.38,41.06,0.066
+Recommended,CCD-O,Continuous,3,beta_i,0.25,16,53.11,83.38,41.06,0.11
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,0.25,16,53.11,83.38,41.06,0.092
+Recommended,CCD-O,Continuous,3,beta_i^2,0.25,16,53.11,83.38,41.06,0.079
+Recommended,CCD-O,Continuous,3,beta_0,0.75,16,53.11,83.38,41.06,0.195
+Recommended,CCD-O,Continuous,3,beta_i,0.75,16,53.11,83.38,41.06,0.561
+Recommended,CCD-O,Continuous,3,beta_i_beta_j,0.75,16,53.11,83.38,41.06,0.43
+Recommended,CCD-O,Continuous,3,beta_i^2,0.75,16,53.11,83.38,41.06,0.317
+Recommended,BBD,Continuous,3,beta_0,0.25,15,36.64,47.76,29.35,0.065
+Recommended,BBD,Continuous,3,beta_i,0.25,15,36.64,47.76,29.35,0.09
+Recommended,BBD,Continuous,3,beta_i_beta_j,0.25,15,36.64,47.76,29.35,0.07
+Recommended,BBD,Continuous,3,beta_i^2,0.25,15,36.64,47.76,29.35,0.068
+Recommended,BBD,Continuous,3,beta_0,0.75,15,36.64,47.76,29.35,0.186
+Recommended,BBD,Continuous,3,beta_i,0.75,15,36.64,47.76,29.35,0.405
+Recommended,BBD,Continuous,3,beta_i_beta_j,0.75,15,36.64,47.76,29.35,0.232
+Recommended,BBD,Continuous,3,beta_i^2,0.75,15,36.64,47.76,29.35,0.218
+Equal,D Optimal,Continuous,3,beta_0,0.25,32,47.22,95.01,27.08,0.071
+Equal,D Optimal,Continuous,3,beta_i,0.25,32,47.22,95.01,27.08,0.221
+Equal,D Optimal,Continuous,3,beta_i_beta_j,0.25,32,47.22,95.01,27.08,0.086
+Equal,D Optimal,Continuous,3,beta_i^2,0.25,32,47.22,95.01,27.08,0.188
+Equal,D Optimal,Continuous,3,beta_0,0.75,32,47.22,95.01,27.08,0.244
+Equal,D Optimal,Continuous,3,beta_i,0.75,32,47.22,95.01,27.08,0.946
+Equal,D Optimal,Continuous,3,beta_i_beta_j,0.75,32,47.22,95.01,27.08,0.382
+Equal,D Optimal,Continuous,3,beta_i^2,0.75,32,47.22,95.01,27.08,0.893
+Equal,I Optimal,Continuous,3,beta_0,0.25,32,40.54,62.83,32.93,0.11
+Equal,I Optimal,Continuous,3,beta_i,0.25,32,40.54,62.83,32.93,0.174
+Equal,I Optimal,Continuous,3,beta_i_beta_j,0.25,32,40.54,62.83,32.93,0.132
+Equal,I Optimal,Continuous,3,beta_i^2,0.25,32,40.54,62.83,32.93,0.098
+Equal,I Optimal,Continuous,3,beta_0,0.75,32,40.54,62.83,32.93,0.569
+Equal,I Optimal,Continuous,3,beta_i,0.75,32,40.54,62.83,32.93,0.86
+Equal,I Optimal,Continuous,3,beta_i_beta_j,0.75,32,40.54,62.83,32.93,0.7
+Equal,I Optimal,Continuous,3,beta_i^2,0.75,32,40.54,62.83,32.93,0.483
+Equal,A Optimal,Continuous,3,beta_0,0.25,32,41.74,62.9,33,0.103
+Equal,A Optimal,Continuous,3,beta_i,0.25,32,41.74,62.9,33,0.179
+Equal,A Optimal,Continuous,3,beta_i_beta_j,0.25,32,41.74,62.9,33,0.098
+Equal,A Optimal,Continuous,3,beta_i^2,0.25,32,41.74,62.9,33,0.137
+Equal,A Optimal,Continuous,3,beta_0,0.75,32,41.74,62.9,33,0.523
+Equal,A Optimal,Continuous,3,beta_i,0.75,32,41.74,62.9,33,0.873
+Equal,A Optimal,Continuous,3,beta_i_beta_j,0.75,32,41.74,62.9,33,0.725
+Equal,A Optimal,Continuous,3,beta_i^2,0.75,32,41.74,62.9,33,0.479
+Equal,Alias Optimal,Continuous,3,beta_0,0.25,32,47.07,85.15,27.01,0.071
+Equal,Alias Optimal,Continuous,3,beta_i,0.25,32,47.07,85.15,27.01,0.221
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,0.25,32,47.07,85.15,27.01,0.188
+Equal,Alias Optimal,Continuous,3,beta_i^2,0.25,32,47.07,85.15,27.01,0.086
+Equal,Alias Optimal,Continuous,3,beta_0,0.75,32,47.07,85.15,27.01,0.246
+Equal,Alias Optimal,Continuous,3,beta_i,0.75,32,47.07,85.15,27.01,0.946
+Equal,Alias Optimal,Continuous,3,beta_i_beta_j,0.75,32,47.07,85.15,27.01,0.893
+Equal,Alias Optimal,Continuous,3,beta_i^2,0.75,32,47.07,85.15,27.01,0.38
+Equal,CCD-R,Continuous,3,beta_0,0.25,32,68.99,93.28,44.15,0.077
+Equal,CCD-R,Continuous,3,beta_i,0.25,32,68.99,93.28,44.15,0.24
+Equal,CCD-R,Continuous,3,beta_i_beta_j,0.25,32,68.99,93.28,44.15,0.16
+Equal,CCD-R,Continuous,3,beta_i^2,0.25,32,68.99,93.28,44.15,0.177
+Equal,CCD-R,Continuous,3,beta_0,0.75,32,68.99,93.28,44.15,0.302
+Equal,CCD-R,Continuous,3,beta_i,0.75,32,68.99,93.28,44.15,0.963
+Equal,CCD-R,Continuous,3,beta_i_beta_j,0.75,32,68.99,93.28,44.15,0.818
+Equal,CCD-R,Continuous,3,beta_i^2,0.75,32,68.99,93.28,44.15,0.87
+Equal,CCD-O,Continuous,3,beta_0,0.25,32,53.11,83.38,41.05,0.09
+Equal,CCD-O,Continuous,3,beta_i,0.25,32,53.11,83.38,41.05,0.206
+Equal,CCD-O,Continuous,3,beta_i_beta_j,0.25,32,53.11,83.38,41.05,0.125
+Equal,CCD-O,Continuous,3,beta_i^2,0.25,32,53.11,83.38,41.05,0.16
+Equal,CCD-O,Continuous,3,beta_0,0.75,32,53.11,83.38,41.05,0.417
+Equal,CCD-O,Continuous,3,beta_i,0.75,32,53.11,83.38,41.05,0.926
+Equal,CCD-O,Continuous,3,beta_i_beta_j,0.75,32,53.11,83.38,41.05,0.818
+Equal,CCD-O,Continuous,3,beta_i^2,0.75,32,53.11,83.38,41.05,0.661
+Equal,BBD,Continuous,3,beta_0,0.25,32,35.35,45.45,29.41,0.104
+Equal,BBD,Continuous,3,beta_i,0.25,32,35.35,45.45,29.41,0.16
+Equal,BBD,Continuous,3,beta_i_beta_j,0.25,32,35.35,45.45,29.41,0.104
+Equal,BBD,Continuous,3,beta_i^2,0.25,32,35.35,45.45,29.41,0.104
+Equal,BBD,Continuous,3,beta_0,0.75,32,35.35,45.45,29.41,0.527
+Equal,BBD,Continuous,3,beta_i,0.75,32,35.35,45.45,29.41,0.818
+Equal,BBD,Continuous,3,beta_i_beta_j,0.75,32,35.35,45.45,29.41,0.527
+Equal,BBD,Continuous,3,beta_i^2,0.75,32,35.35,45.45,29.41,0.527
+Recommended,D Optimal,Continuous,4,beta_0,0.25,21,46.83,68.13,24.68,0.057
+Recommended,D Optimal,Continuous,4,beta_i,0.25,21,46.83,68.13,24.68,0.133
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,0.25,21,46.83,68.13,24.68,0.123
+Recommended,D Optimal,Continuous,4,beta_i^2,0.25,21,46.83,68.13,24.68,0.065
+Recommended,D Optimal,Continuous,4,beta_0,0.75,21,46.83,68.13,24.68,0.111
+Recommended,D Optimal,Continuous,4,beta_i,0.75,21,46.83,68.13,24.68,0.694
+Recommended,D Optimal,Continuous,4,beta_i_beta_j,0.75,21,46.83,68.13,24.68,0.642
+Recommended,D Optimal,Continuous,4,beta_i^2,0.75,21,46.83,68.13,24.68,0.19
+Recommended,I Optimal,Continuous,4,beta_0,0.25,21,41.03,56.64,29.43,0.073
+Recommended,I Optimal,Continuous,4,beta_i,0.25,21,41.03,56.64,29.43,0.117
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,0.25,21,41.03,56.64,29.43,0.108
+Recommended,I Optimal,Continuous,4,beta_i^2,0.25,21,41.03,56.64,29.43,0.065
+Recommended,I Optimal,Continuous,4,beta_0,0.75,21,41.03,56.64,29.43,0.262
+Recommended,I Optimal,Continuous,4,beta_i,0.75,21,41.03,56.64,29.43,0.608
+Recommended,I Optimal,Continuous,4,beta_i_beta_j,0.75,21,41.03,56.64,29.43,0.544
+Recommended,I Optimal,Continuous,4,beta_i^2,0.75,21,41.03,56.64,29.43,0.191
+Recommended,A Optimal,Continuous,4,beta_0,0.25,21,42.44,37.62,30.83,0.068
+Recommended,A Optimal,Continuous,4,beta_i,0.25,21,42.44,37.62,30.83,0.112
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,0.25,21,42.44,37.62,30.83,0.096
+Recommended,A Optimal,Continuous,4,beta_i^2,0.25,21,42.44,37.62,30.83,0.07
+Recommended,A Optimal,Continuous,4,beta_0,0.75,21,42.44,37.62,30.83,0.217
+Recommended,A Optimal,Continuous,4,beta_i,0.75,21,42.44,37.62,30.83,0.574
+Recommended,A Optimal,Continuous,4,beta_i_beta_j,0.75,21,42.44,37.62,30.83,0.459
+Recommended,A Optimal,Continuous,4,beta_i^2,0.75,21,42.44,37.62,30.83,0.238
+Recommended,Alias Optimal,Continuous,4,beta_0,0.25,21,46.19,44.12,25.1,0.057
+Recommended,Alias Optimal,Continuous,4,beta_i,0.25,21,46.19,44.12,25.1,0.125
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,0.25,21,46.19,44.12,25.1,0.114
+Recommended,Alias Optimal,Continuous,4,beta_i^2,0.25,21,46.19,44.12,25.1,0.069
+Recommended,Alias Optimal,Continuous,4,beta_0,0.75,21,46.19,44.12,25.1,0.118
+Recommended,Alias Optimal,Continuous,4,beta_i,0.75,21,46.19,44.12,25.1,0.652
+Recommended,Alias Optimal,Continuous,4,beta_i_beta_j,0.75,21,46.19,44.12,25.1,0.588
+Recommended,Alias Optimal,Continuous,4,beta_i^2,0.75,21,46.19,44.12,25.1,0.224
+Recommended,CCD-R,Continuous,4,beta_0,0.25,26,77.26,98.9,45.39,0.062
+Recommended,CCD-R,Continuous,4,beta_i,0.25,26,77.26,98.9,45.39,0.201
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,0.25,26,77.26,98.9,45.39,0.15
+Recommended,CCD-R,Continuous,4,beta_i^2,0.25,26,77.26,98.9,45.39,0.159
+Recommended,CCD-R,Continuous,4,beta_0,0.75,26,77.26,98.9,45.39,0.163
+Recommended,CCD-R,Continuous,4,beta_i,0.75,26,77.26,98.9,45.39,0.916
+Recommended,CCD-R,Continuous,4,beta_i_beta_j,0.75,26,77.26,98.9,45.39,0.78
+Recommended,CCD-R,Continuous,4,beta_i^2,0.75,26,77.26,98.9,45.39,0.814
+Recommended,CCD-O,Continuous,4,beta_0,0.25,26,59.28,91.74,45.13,0.071
+Recommended,CCD-O,Continuous,4,beta_i,0.25,26,59.28,91.74,45.13,0.178
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,0.25,26,59.28,91.74,45.13,0.11
+Recommended,CCD-O,Continuous,4,beta_i^2,0.25,26,59.28,91.74,45.13,0.15
+Recommended,CCD-O,Continuous,4,beta_0,0.75,26,59.28,91.74,45.13,0.244
+Recommended,CCD-O,Continuous,4,beta_i,0.75,26,59.28,91.74,45.13,0.869
+Recommended,CCD-O,Continuous,4,beta_i_beta_j,0.75,26,59.28,91.74,45.13,0.78
+Recommended,CCD-O,Continuous,4,beta_i^2,0.75,26,59.28,91.74,45.13,0.566
+Recommended,BBD,Continuous,4,beta_0,0.25,27,25.21,23.81,19.05,0.068
+Recommended,BBD,Continuous,4,beta_i,0.25,27,25.21,23.81,19.05,0.126
+Recommended,BBD,Continuous,4,beta_i_beta_j,0.25,27,25.21,23.81,19.05,0.075
+Recommended,BBD,Continuous,4,beta_i^2,0.25,27,25.21,23.81,19.05,0.083
+Recommended,BBD,Continuous,4,beta_0,0.75,27,25.21,23.81,19.05,0.223
+Recommended,BBD,Continuous,4,beta_i,0.75,27,25.21,23.81,19.05,0.665
+Recommended,BBD,Continuous,4,beta_i_beta_j,0.75,27,25.21,23.81,19.05,0.357
+Recommended,BBD,Continuous,4,beta_i^2,0.75,27,25.21,23.81,19.05,0.282
+Equal,D Optimal,Continuous,4,beta_0,0.25,56,48.65,89.3,26.9,0.078
+Equal,D Optimal,Continuous,4,beta_i,0.25,56,48.65,89.3,26.9,0.378
+Equal,D Optimal,Continuous,4,beta_i_beta_j,0.25,56,48.65,89.3,26.9,0.33
+Equal,D Optimal,Continuous,4,beta_i^2,0.25,56,48.65,89.3,26.9,0.105
+Equal,D Optimal,Continuous,4,beta_0,0.75,56,48.65,89.3,26.9,0.313
+Equal,D Optimal,Continuous,4,beta_i,0.75,56,48.65,89.3,26.9,0.999
+Equal,D Optimal,Continuous,4,beta_i_beta_j,0.75,56,48.65,89.3,26.9,0.995
+Equal,D Optimal,Continuous,4,beta_i^2,0.75,56,48.65,89.3,26.9,0.533
+Equal,I Optimal,Continuous,4,beta_0,0.25,56,41.64,62.96,33.76,0.138
+Equal,I Optimal,Continuous,4,beta_i,0.25,56,41.64,62.96,33.76,0.296
+Equal,I Optimal,Continuous,4,beta_i_beta_j,0.25,56,41.64,62.96,33.76,0.222
+Equal,I Optimal,Continuous,4,beta_i^2,0.25,56,41.64,62.96,33.76,0.132
+Equal,I Optimal,Continuous,4,beta_0,0.75,56,41.64,62.96,33.76,0.731
+Equal,I Optimal,Continuous,4,beta_i,0.75,56,41.64,62.96,33.76,0.989
+Equal,I Optimal,Continuous,4,beta_i_beta_j,0.75,56,41.64,62.96,33.76,0.947
+Equal,I Optimal,Continuous,4,beta_i^2,0.75,56,41.64,62.96,33.76,0.704
+Equal,A Optimal,Continuous,4,beta_0,0.25,56,42.28,64.67,33.99,0.122
+Equal,A Optimal,Continuous,4,beta_i,0.25,56,42.28,64.67,33.99,0.393
+Equal,A Optimal,Continuous,4,beta_i_beta_j,0.25,56,42.28,64.67,33.99,0.223
+Equal,A Optimal,Continuous,4,beta_i^2,0.25,56,42.28,64.67,33.99,0.137
+Equal,A Optimal,Continuous,4,beta_0,0.75,56,42.28,64.67,33.99,0.646
+Equal,A Optimal,Continuous,4,beta_i,0.75,56,42.28,64.67,33.99,0.991
+Equal,A Optimal,Continuous,4,beta_i_beta_j,0.75,56,42.28,64.67,33.99,0.948
+Equal,A Optimal,Continuous,4,beta_i^2,0.75,56,42.28,64.67,33.99,0.729
+Equal,Alias Optimal,Continuous,4,beta_0,0.25,56,48.56,86.52,26.47,0.078
+Equal,Alias Optimal,Continuous,4,beta_i,0.25,56,48.56,86.52,26.47,0.378
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,0.25,56,48.56,86.52,26.47,0.329
+Equal,Alias Optimal,Continuous,4,beta_i^2,0.25,56,48.56,86.52,26.47,0.104
+Equal,Alias Optimal,Continuous,4,beta_0,0.75,56,48.56,86.52,26.47,0.313
+Equal,Alias Optimal,Continuous,4,beta_i,0.75,56,48.56,86.52,26.47,0.999
+Equal,Alias Optimal,Continuous,4,beta_i_beta_j,0.75,56,48.56,86.52,26.47,0.995
+Equal,Alias Optimal,Continuous,4,beta_i^2,0.75,56,48.56,86.52,26.47,0.529
+Equal,CCD-R,Continuous,4,beta_0,0.25,56,75.14,91.83,55.9,0.106
+Equal,CCD-R,Continuous,4,beta_i,0.25,56,75.14,91.83,55.9,0.394
+Equal,CCD-R,Continuous,4,beta_i_beta_j,0.25,56,75.14,91.83,55.9,0.282
+Equal,CCD-R,Continuous,4,beta_i^2,0.25,56,75.14,91.83,55.9,0.394
+Equal,CCD-R,Continuous,4,beta_0,0.75,56,75.14,91.83,55.9,0.544
+Equal,CCD-R,Continuous,4,beta_i,0.75,56,75.14,91.83,55.9,0.999
+Equal,CCD-R,Continuous,4,beta_i_beta_j,0.75,56,75.14,91.83,55.9,0.985
+Equal,CCD-R,Continuous,4,beta_i^2,0.75,56,75.14,91.83,55.9,0.999
+Equal,CCD-O,Continuous,4,beta_0,0.25,56,60.89,86.74,50.03,0.118
+Equal,CCD-O,Continuous,4,beta_i,0.25,56,60.89,86.74,50.03,0.355
+Equal,CCD-O,Continuous,4,beta_i_beta_j,0.25,56,60.89,86.74,50.03,0.282
+Equal,CCD-O,Continuous,4,beta_i^2,0.25,56,60.89,86.74,50.03,0.243
+Equal,CCD-O,Continuous,4,beta_0,0.75,56,60.89,86.74,50.03,0.624
+Equal,CCD-O,Continuous,4,beta_i,0.75,56,60.89,86.74,50.03,0.997
+Equal,CCD-O,Continuous,4,beta_i_beta_j,0.75,56,60.89,86.74,50.03,0.985
+Equal,CCD-O,Continuous,4,beta_i^2,0.75,56,60.89,86.74,50.03,0.966
+Equal,BBD,Continuous,4,beta_0,0.25,56,24.79,23.81,19.48,0.106
+Equal,BBD,Continuous,4,beta_i,0.25,56,24.79,23.81,19.48,0.223
+Equal,BBD,Continuous,4,beta_i_beta_j,0.25,56,24.79,23.81,19.48,0.106
+Equal,BBD,Continuous,4,beta_i^2,0.25,56,24.79,23.81,19.48,0.135
+Equal,BBD,Continuous,4,beta_0,0.75,56,24.79,23.81,19.48,0.544
+Equal,BBD,Continuous,4,beta_i,0.75,56,24.79,23.81,19.48,0.948
+Equal,BBD,Continuous,4,beta_i_beta_j,0.75,56,24.79,23.81,19.48,0.544
+Equal,BBD,Continuous,4,beta_i^2,0.75,56,24.79,23.81,19.48,0.718
+Recommended,D Optimal,Continuous,5,beta_0,0.25,27,48.35,64.61,23.48,0.056
+Recommended,D Optimal,Continuous,5,beta_i,0.25,27,48.35,64.61,23.48,0.155
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,0.25,27,48.35,64.61,23.48,0.146
+Recommended,D Optimal,Continuous,5,beta_i^2,0.25,27,48.35,64.61,23.48,0.069
+Recommended,D Optimal,Continuous,5,beta_0,0.75,27,48.35,64.61,23.48,0.106
+Recommended,D Optimal,Continuous,5,beta_i,0.75,27,48.35,64.61,23.48,0.789
+Recommended,D Optimal,Continuous,5,beta_i_beta_j,0.75,27,48.35,64.61,23.48,0.753
+Recommended,D Optimal,Continuous,5,beta_i^2,0.75,27,48.35,64.61,23.48,0.228
+Recommended,I Optimal,Continuous,5,beta_0,0.25,27,45.31,74.24,29.73,0.071
+Recommended,I Optimal,Continuous,5,beta_i,0.25,27,45.31,74.24,29.73,0.147
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,0.25,27,45.31,74.24,29.73,0.125
+Recommended,I Optimal,Continuous,5,beta_i^2,0.25,27,45.31,74.24,29.73,0.07
+Recommended,I Optimal,Continuous,5,beta_0,0.75,27,45.31,74.24,29.73,0.248
+Recommended,I Optimal,Continuous,5,beta_i,0.75,27,45.31,74.24,29.73,0.758
+Recommended,I Optimal,Continuous,5,beta_i_beta_j,0.75,27,45.31,74.24,29.73,0.233
+Recommended,I Optimal,Continuous,5,beta_i^2,0.75,27,45.31,74.24,29.73,0.652
+Recommended,A Optimal,Continuous,5,beta_0,0.25,27,43.09,56.38,31.08,0.066
+Recommended,A Optimal,Continuous,5,beta_i,0.25,27,43.09,56.38,31.08,0.134
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,0.25,27,43.09,56.38,31.08,0.111
+Recommended,A Optimal,Continuous,5,beta_i^2,0.25,27,43.09,56.38,31.08,0.075
+Recommended,A Optimal,Continuous,5,beta_0,0.75,27,43.09,56.38,31.08,0.196
+Recommended,A Optimal,Continuous,5,beta_i,0.75,27,43.09,56.38,31.08,0.698
+Recommended,A Optimal,Continuous,5,beta_i_beta_j,0.75,27,43.09,56.38,31.08,0.565
+Recommended,A Optimal,Continuous,5,beta_i^2,0.75,27,43.09,56.38,31.08,0.282
+Recommended,Alias Optimal,Continuous,5,beta_0,0.25,27,45.31,59.91,29.73,0.071
+Recommended,Alias Optimal,Continuous,5,beta_i,0.25,27,45.31,59.91,29.73,0.147
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,0.25,27,45.31,59.91,29.73,0.125
+Recommended,Alias Optimal,Continuous,5,beta_i^2,0.25,27,45.31,59.91,29.73,0.07
+Recommended,Alias Optimal,Continuous,5,beta_0,0.75,27,45.31,59.91,29.73,0.248
+Recommended,Alias Optimal,Continuous,5,beta_i,0.75,27,45.31,59.91,29.73,0.758
+Recommended,Alias Optimal,Continuous,5,beta_i_beta_j,0.75,27,45.31,59.91,29.73,0.652
+Recommended,Alias Optimal,Continuous,5,beta_i^2,0.75,27,45.31,59.91,29.73,0.233
+Recommended,CCD-R,Continuous,5,beta_0,0.25,28,71.81,85.21,49.83,0.063
+Recommended,CCD-R,Continuous,5,beta_i,0.25,28,71.81,85.21,49.83,0.189
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,0.25,28,71.81,85.21,49.83,0.14
+Recommended,CCD-R,Continuous,5,beta_i^2,0.25,28,71.81,85.21,49.83,0.171
+Recommended,CCD-R,Continuous,5,beta_0,0.75,28,71.81,85.21,49.83,1.66
+Recommended,CCD-R,Continuous,5,beta_i,0.75,28,71.81,85.21,49.83,0.881
+Recommended,CCD-R,Continuous,5,beta_i_beta_j,0.75,28,71.81,85.21,49.83,0.731
+Recommended,CCD-R,Continuous,5,beta_i^2,0.75,28,71.81,85.21,49.83,0.842
+Recommended,CCD-O,Continuous,5,beta_0,0.25,28,60.07,81.58,50.47,0.072
+Recommended,CCD-O,Continuous,5,beta_i,0.25,28,60.07,81.58,50.47,0.17
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,0.25,28,60.07,81.58,50.47,0.14
+Recommended,CCD-O,Continuous,5,beta_i^2,0.25,28,60.07,81.58,50.47,0.125
+Recommended,CCD-O,Continuous,5,beta_0,0.75,28,60.07,81.58,50.47,0.255
+Recommended,CCD-O,Continuous,5,beta_i,0.75,28,60.07,81.58,50.47,0.84
+Recommended,CCD-O,Continuous,5,beta_i_beta_j,0.75,28,60.07,81.58,50.47,0.731
+Recommended,CCD-O,Continuous,5,beta_i^2,0.75,28,60.07,81.58,50.47,0.654
+Recommended,BBD,Continuous,5,beta_0,0.25,46,16.78,13.65,12.85,0.091
+Recommended,BBD,Continuous,5,beta_i,0.25,46,16.78,13.65,12.85,0.161
+Recommended,BBD,Continuous,5,beta_i_beta_j,0.25,46,16.78,13.65,12.85,0.077
+Recommended,BBD,Continuous,5,beta_i^2,0.25,46,16.78,13.65,12.85,0.11
+Recommended,BBD,Continuous,5,beta_0,0.75,46,16.78,13.65,12.85,0.423
+Recommended,BBD,Continuous,5,beta_i,0.75,46,16.78,13.65,12.85,0.822
+Recommended,BBD,Continuous,5,beta_i_beta_j,0.75,46,16.78,13.65,12.85,0.303
+Recommended,BBD,Continuous,5,beta_i^2,0.75,46,16.78,13.65,12.85,0.568
+Equal,D Optimal,Continuous,5,beta_0,0.25,84,50.47,82.71,25.46,0.078
+Equal,D Optimal,Continuous,5,beta_i,0.25,84,50.47,82.71,25.46,0.535
+Equal,D Optimal,Continuous,5,beta_i_beta_j,0.25,84,50.47,82.71,25.46,0.481
+Equal,D Optimal,Continuous,5,beta_i^2,0.25,84,50.47,82.71,25.46,0.132
+Equal,D Optimal,Continuous,5,beta_0,0.75,84,50.47,82.71,25.46,0.312
+Equal,D Optimal,Continuous,5,beta_i,0.75,84,50.47,82.71,25.46,1
+Equal,D Optimal,Continuous,5,beta_i_beta_j,0.75,84,50.47,82.71,25.46,1
+Equal,D Optimal,Continuous,5,beta_i^2,0.75,84,50.47,82.71,25.46,0.7
+Equal,I Optimal,Continuous,5,beta_0,0.25,84,43.3,61.41,34.74,0.165
+Equal,I Optimal,Continuous,5,beta_i,0.25,84,43.3,61.41,34.74,0.438
+Equal,I Optimal,Continuous,5,beta_i_beta_j,0.25,84,43.3,61.41,34.74,0.342
+Equal,I Optimal,Continuous,5,beta_i^2,0.25,84,43.3,61.41,34.74,0.166
+Equal,I Optimal,Continuous,5,beta_0,0.75,84,43.3,61.41,34.74,0.836
+Equal,I Optimal,Continuous,5,beta_i,0.75,84,43.3,61.41,34.74,1
+Equal,I Optimal,Continuous,5,beta_i_beta_j,0.75,84,43.3,61.41,34.74,0.996
+Equal,I Optimal,Continuous,5,beta_i^2,0.75,84,43.3,61.41,34.74,0.839
+Equal,A Optimal,Continuous,5,beta_0,0.25,84,44.03,61.66,35.05,0.141
+Equal,A Optimal,Continuous,5,beta_i,0.25,84,44.03,61.66,35.05,0.45
+Equal,A Optimal,Continuous,5,beta_i_beta_j,0.25,84,44.03,61.66,35.05,0.343
+Equal,A Optimal,Continuous,5,beta_i^2,0.25,84,44.03,61.66,35.05,0.173
+Equal,A Optimal,Continuous,5,beta_0,0.75,84,44.03,61.66,35.05,0.748
+Equal,A Optimal,Continuous,5,beta_i,0.75,84,44.03,61.66,35.05,1
+Equal,A Optimal,Continuous,5,beta_i_beta_j,0.75,84,44.03,61.66,35.05,0.997
+Equal,A Optimal,Continuous,5,beta_i^2,0.75,84,44.03,61.66,35.05,0.86
+Equal,Alias Optimal,Continuous,5,beta_0,0.25,84,50.39,85.78,25.9,0.079
+Equal,Alias Optimal,Continuous,5,beta_i,0.25,84,50.39,85.78,25.9,0.541
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,0.25,84,50.39,85.78,25.9,0.483
+Equal,Alias Optimal,Continuous,5,beta_i^2,0.25,84,50.39,85.78,25.9,0.126
+Equal,Alias Optimal,Continuous,5,beta_0,0.75,84,50.39,85.78,25.9,0.319
+Equal,Alias Optimal,Continuous,5,beta_i,0.75,84,50.39,85.78,25.9,1
+Equal,Alias Optimal,Continuous,5,beta_i_beta_j,0.75,84,50.39,85.78,25.9,1
+Equal,Alias Optimal,Continuous,5,beta_i^2,0.75,84,50.39,85.78,25.9,0.673
+Equal,CCD-R,Continuous,5,beta_0,0.25,84,71.81,85.21,49.83,0.099
+Equal,CCD-R,Continuous,5,beta_i,0.25,84,71.81,85.21,49.83,0.551
+Equal,CCD-R,Continuous,5,beta_i_beta_j,0.25,84,71.81,85.21,49.83,0.4
+Equal,CCD-R,Continuous,5,beta_i^2,0.25,84,71.81,85.21,49.83,0.504
+Equal,CCD-R,Continuous,5,beta_0,0.75,84,71.81,85.21,49.83,0.49
+Equal,CCD-R,Continuous,5,beta_i,0.75,84,71.81,85.21,49.83,1
+Equal,CCD-R,Continuous,5,beta_i_beta_j,0.75,84,71.81,85.21,49.83,0.999
+Equal,CCD-R,Continuous,5,beta_i^2,0.75,84,71.81,85.21,49.83,1
+Equal,CCD-O,Continuous,5,beta_0,0.25,84,60.07,81.58,50.47,0.137
+Equal,CCD-O,Continuous,5,beta_i,0.25,84,60.07,81.58,50.47,0.501
+Equal,CCD-O,Continuous,5,beta_i_beta_j,0.25,84,60.07,81.58,50.47,0.4
+Equal,CCD-O,Continuous,5,beta_i^2,0.25,84,60.07,81.58,50.47,0.344
+Equal,CCD-O,Continuous,5,beta_0,0.75,84,60.07,81.58,50.47,0.725
+Equal,CCD-O,Continuous,5,beta_i,0.75,84,60.07,81.58,50.47,1
+Equal,CCD-O,Continuous,5,beta_i_beta_j,0.75,84,60.07,81.58,50.47,0.999
+Equal,CCD-O,Continuous,5,beta_i^2,0.75,84,60.07,81.58,50.47,0.997
+Equal,BBD,Continuous,5,beta_0,0.25,84,17.44,12.21,11.62,0.078
+Equal,BBD,Continuous,5,beta_i,0.25,84,17.44,12.21,11.62,0.286
+Equal,BBD,Continuous,5,beta_i_beta_j,0.25,84,17.44,12.21,11.62,0.107
+Equal,BBD,Continuous,5,beta_i^2,0.25,84,17.44,12.21,11.62,0.123
+Equal,BBD,Continuous,5,beta_0,0.75,84,17.44,12.21,11.62,0.315
+Equal,BBD,Continuous,5,beta_i,0.75,84,17.44,12.21,11.62,0.987
+Equal,BBD,Continuous,5,beta_i_beta_j,0.75,84,17.44,12.21,11.62,0.551
+Equal,BBD,Continuous,5,beta_i^2,0.75,84,17.44,12.21,11.62,0.651
