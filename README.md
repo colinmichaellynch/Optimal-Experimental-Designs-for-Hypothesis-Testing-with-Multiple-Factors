@@ -37,14 +37,6 @@ Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate
 
 ![](/Images/powerDesigns.png)
 
-## Contact Information
-
-| Contact Method | URL |
-| --- | --- |
-| Email | cmlynch2@asu.edu |
-| LinkedIn | https://www.linkedin.com/in/colinmichaellynch/ |
-| Fiverr | https://www.fiverr.com/colinlynch |
-
 ## Acknowledgements
 
 I would like to thank my collaborator Dr. Douglas Montgomery for his comments on this manuscript and his insights into DOE. 
