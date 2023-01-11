@@ -29,13 +29,17 @@ Hello there! My name is Colin Lynch, and I am an animal behavior Ph.D. candidate
 
 * Definitive screening designs will therefore allow researchers to reject the highest number of factors. 
 
-![](/Images/Rplot.png)
+<p align="center">
+  <img src=/Images/Rplot.png>
+</p>
 
 * Central composite designs yield the highest power levels for second order models, even controlling for sample size.
 
 * Power analyses should be done with designs in mind. Sample size, effect size, alpha and beta levels alone do not determine power. 
 
-![](/Images/powerDesigns.png)
+<p align="center">
+  <img src=/Images/powerDesigns.png>
+</p>
 
 ## Acknowledgements
 
